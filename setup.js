@@ -4,7 +4,7 @@ const fs = require('fs');
 const util = require('util');
 // const faker = require('faker');
 
-const { query } = require('../db');
+const { query } = require('./db');
 
 const connectionString = process.env.DATABASE_URL;
 console.log(connectionString)
@@ -25,7 +25,7 @@ async function main() {
   try {
     const createTable = await readFileAsync('./sql/schema.sql');
     await query(createTable.toString('utf8'));
-    console.info('Tafla búnin til');
+    console.info('Töflur búnar til');
   } catch (e) {
     console.error('Villa við að búa til töflur:', e.message);
     return;

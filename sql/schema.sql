@@ -21,6 +21,8 @@ CREATE TABLE questions
     id serial primary key,
     question varchar(256) not null,
     userid int not null,
+    created timestamp
+    with time zone not null default current_timestamp,
     FOREIGN KEY (userid) REFERENCES users(id)
 );
 
@@ -29,7 +31,11 @@ CREATE TABLE comments
     id serial primary key,
     comment varchar(256) not null,
     questionid int not null,
-    FOREIGN KEY (questionid) REFERENCES questions(id)
+    userid int not null,
+    created timestamp
+    with time zone not null default current_timestamp,
+    FOREIGN KEY (questionid) REFERENCES questions(id),
+    FOREIGN KEY (userid) REFERENCES users(id)
 );
 
 CREATE TABLE results
