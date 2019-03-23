@@ -9,18 +9,35 @@ const {
   postReplyRoute,
 } = require('./chat/chat');
 
+const {
+  getData,
+  setData,
+} = require('./indexUtils');
+
 function catchErrors(fn) {
   return (req, res, next) => fn(req, res, next).catch(next);
 }
 
-function indexRoute(req, res) {
-  console.log('gamli');
-  return res.json({
-    gamli: 'netti'
-  });
+
+async function indexPostRoute(req, res) {
+  const { bloodTest } = req.body;
+  const userID = req.user.id;
+
+  const result = await setData(bloodTest, userID);
+
+  return res.json(result);
 }
 
-router.get('/', indexRoute);
+async function indexRoute(req, res) {
+  const userID = req.user.id;
+
+  const data = await getData(userID);
+  
+  res.json(data);
+}
+
+router.get('/', requireAuth, catchErrors(indexRoute));
+router.post('/', requireAuth, catchErrors(indexPostRoute));
 
 router.get('/chat', requireAuth, catchErrors(chatRoute));
 router.post('/chat/question', requireAuth, catchErrors(postQuestionRoute));
