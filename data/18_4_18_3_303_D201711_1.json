@@ -1,1 +1,3712 @@
-{"fileData":[{"accountentityid":"18_644MGZ","createddate":1511740800000,"duration":36000000,"efficiency":97,"enddate":1511767650000,"entityid":"18_644MGZ_16437073544","infocode":0,"ismainsleep":true,"id":"16437073544","levels":[{"createddate":1511731650000,"level":"wake","seconds":150},{"createddate":1511731800000,"level":"light","seconds":30},{"createddate":1511731830000,"level":"deep","seconds":480},{"createddate":1511732310000,"level":"light","seconds":510},{"createddate":1511732820000,"level":"deep","seconds":300},{"createddate":1511733120000,"level":"light","seconds":90},{"createddate":1511733210000,"level":"rem","seconds":960},{"createddate":1511734170000,"level":"light","seconds":30},{"createddate":1511734200000,"level":"deep","seconds":1440},{"createddate":1511735640000,"level":"light","seconds":3960},{"createddate":1511739600000,"level":"wake","seconds":390},{"createddate":1511739990000,"level":"rem","seconds":330},{"createddate":1511740320000,"level":"light","seconds":1230},{"createddate":1511741550000,"level":"wake","seconds":450},{"createddate":1511742000000,"level":"light","seconds":210},{"createddate":1511742210000,"level":"deep","seconds":2760},{"createddate":1511744970000,"level":"light","seconds":4620},{"createddate":1511749590000,"level":"wake","seconds":510},{"createddate":1511750100000,"level":"light","seconds":2730},{"createddate":1511752830000,"level":"rem","seconds":480},{"createddate":1511753310000,"level":"light","seconds":240},{"createddate":1511753550000,"level":"wake","seconds":210},{"createddate":1511753760000,"level":"rem","seconds":570},{"createddate":1511754330000,"level":"light","seconds":5430},{"createddate":1511759760000,"level":"rem","seconds":300},{"createddate":1511760060000,"level":"light","seconds":330},{"createddate":1511760390000,"level":"rem","seconds":870},{"createddate":1511761260000,"level":"wake","seconds":300},{"createddate":1511761560000,"level":"light","seconds":1170},{"createddate":1511762730000,"level":"wake","seconds":270},{"createddate":1511763000000,"level":"light","seconds":960},{"createddate":1511763960000,"level":"rem","seconds":540},{"createddate":1511764500000,"level":"light","seconds":60},{"createddate":1511764560000,"level":"deep","seconds":390},{"createddate":1511764950000,"level":"rem","seconds":2700}],"summary":{"deep":{"count":5,"minutes":88,"thirtydayavgminutes":72},"light":{"count":45,"minutes":333,"thirtydayavgminutes":283},"rem":{"count":9,"minutes":109,"thirtydayavgminutes":55},"wake":{"count":43,"minutes":70,"thirtydayavgminutes":68}},"minutesafterwakeup":0,"minutesasleep":530,"minutesawake":70,"minutestofallasleep":0,"startdate":1511731650000,"timeinbed":600,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1511568000000,"duration":28680000,"efficiency":93,"enddate":1511605770000,"entityid":"18_644MGZ_16437073543","infocode":0,"ismainsleep":true,"id":"16437073543","levels":[{"createddate":1511577090000,"level":"wake","seconds":30},{"createddate":1511577120000,"level":"deep","seconds":3630},{"createddate":1511580750000,"level":"light","seconds":4050},{"createddate":1511584800000,"level":"wake","seconds":240},{"createddate":1511585040000,"level":"light","seconds":1260},{"createddate":1511586300000,"level":"wake","seconds":210},{"createddate":1511586510000,"level":"light","seconds":1140},{"createddate":1511587650000,"level":"deep","seconds":270},{"createddate":1511587920000,"level":"light","seconds":1140},{"createddate":1511589060000,"level":"wake","seconds":210},{"createddate":1511589270000,"level":"light","seconds":4230},{"createddate":1511593500000,"level":"deep","seconds":1110},{"createddate":1511594610000,"level":"wake","seconds":270},{"createddate":1511594880000,"level":"light","seconds":300},{"createddate":1511595180000,"level":"rem","seconds":1530},{"createddate":1511596710000,"level":"light","seconds":3060},{"createddate":1511599770000,"level":"wake","seconds":450},{"createddate":1511600220000,"level":"light","seconds":1530},{"createddate":1511601750000,"level":"wake","seconds":330},{"createddate":1511602080000,"level":"light","seconds":1290},{"createddate":1511603370000,"level":"wake","seconds":240},{"createddate":1511603610000,"level":"light","seconds":570},{"createddate":1511604180000,"level":"wake","seconds":1590}],"summary":{"deep":{"count":3,"minutes":78,"thirtydayavgminutes":71},"light":{"count":22,"minutes":295,"thirtydayavgminutes":282},"rem":{"count":1,"minutes":26,"thirtydayavgminutes":57},"wake":{"count":22,"minutes":79,"thirtydayavgminutes":67}},"minutesafterwakeup":3,"minutesasleep":399,"minutesawake":79,"minutestofallasleep":0,"startdate":1511577090000,"timeinbed":478,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1511481600000,"duration":30000000,"efficiency":96,"enddate":1511513040000,"entityid":"18_644MGZ_16410169378","infocode":0,"ismainsleep":true,"id":"16410169378","levels":[{"createddate":1511483040000,"level":"wake","seconds":2160},{"createddate":1511485200000,"level":"light","seconds":930},{"createddate":1511486130000,"level":"deep","seconds":600},{"createddate":1511486730000,"level":"light","seconds":1020},{"createddate":1511487750000,"level":"deep","seconds":330},{"createddate":1511488080000,"level":"light","seconds":3270},{"createddate":1511491350000,"level":"deep","seconds":3180},{"createddate":1511494530000,"level":"light","seconds":2490},{"createddate":1511497020000,"level":"rem","seconds":390},{"createddate":1511497410000,"level":"light","seconds":240},{"createddate":1511497650000,"level":"deep","seconds":390},{"createddate":1511498040000,"level":"light","seconds":2640},{"createddate":1511500680000,"level":"wake","seconds":480},{"createddate":1511501160000,"level":"light","seconds":2610},{"createddate":1511503770000,"level":"rem","seconds":1020},{"createddate":1511504790000,"level":"light","seconds":330},{"createddate":1511505120000,"level":"rem","seconds":690},{"createddate":1511505810000,"level":"light","seconds":570},{"createddate":1511506380000,"level":"wake","seconds":420},{"createddate":1511506800000,"level":"light","seconds":2250},{"createddate":1511509050000,"level":"rem","seconds":1590},{"createddate":1511510640000,"level":"light","seconds":1620},{"createddate":1511512260000,"level":"wake","seconds":780}],"summary":{"deep":{"count":4,"minutes":74,"thirtydayavgminutes":71},"light":{"count":29,"minutes":280,"thirtydayavgminutes":282},"rem":{"count":4,"minutes":62,"thirtydayavgminutes":56},"wake":{"count":24,"minutes":84,"thirtydayavgminutes":66}},"minutesafterwakeup":0,"minutesasleep":416,"minutesawake":84,"minutestofallasleep":0,"startdate":1511483040000,"timeinbed":500,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1511395200000,"duration":27600000,"efficiency":95,"enddate":1511422620000,"entityid":"18_644MGZ_16401721971","infocode":0,"ismainsleep":true,"id":"16401721971","levels":[{"createddate":1511394990000,"level":"wake","seconds":300},{"createddate":1511395290000,"level":"light","seconds":870},{"createddate":1511396160000,"level":"deep","seconds":300},{"createddate":1511396460000,"level":"light","seconds":1080},{"createddate":1511397540000,"level":"deep","seconds":1680},{"createddate":1511399220000,"level":"light","seconds":1590},{"createddate":1511400810000,"level":"wake","seconds":210},{"createddate":1511401020000,"level":"light","seconds":330},{"createddate":1511401350000,"level":"deep","seconds":2130},{"createddate":1511403480000,"level":"wake","seconds":480},{"createddate":1511403960000,"level":"light","seconds":2100},{"createddate":1511406060000,"level":"rem","seconds":420},{"createddate":1511406480000,"level":"light","seconds":2790},{"createddate":1511409270000,"level":"deep","seconds":1260},{"createddate":1511410530000,"level":"wake","seconds":390},{"createddate":1511410920000,"level":"light","seconds":3030},{"createddate":1511413950000,"level":"rem","seconds":300},{"createddate":1511414250000,"level":"light","seconds":30},{"createddate":1511414280000,"level":"wake","seconds":300},{"createddate":1511414580000,"level":"light","seconds":1650},{"createddate":1511416230000,"level":"rem","seconds":1350},{"createddate":1511417580000,"level":"wake","seconds":300},{"createddate":1511417880000,"level":"light","seconds":3180},{"createddate":1511421060000,"level":"rem","seconds":840},{"createddate":1511421900000,"level":"wake","seconds":720}],"summary":{"deep":{"count":4,"minutes":87,"thirtydayavgminutes":70},"light":{"count":22,"minutes":264,"thirtydayavgminutes":283},"rem":{"count":6,"minutes":47,"thirtydayavgminutes":57},"wake":{"count":22,"minutes":62,"thirtydayavgminutes":66}},"minutesafterwakeup":0,"minutesasleep":398,"minutesawake":62,"minutestofallasleep":0,"startdate":1511394990000,"timeinbed":460,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1511308800000,"duration":29340000,"efficiency":97,"enddate":1511336160000,"entityid":"18_644MGZ_16393546443","infocode":0,"ismainsleep":true,"id":"16393546443","levels":[{"createddate":1511306790000,"level":"wake","seconds":870},{"createddate":1511307660000,"level":"light","seconds":540},{"createddate":1511308200000,"level":"deep","seconds":2550},{"createddate":1511310750000,"level":"light","seconds":4920},{"createddate":1511315670000,"level":"deep","seconds":2400},{"createddate":1511318070000,"level":"light","seconds":930},{"createddate":1511319000000,"level":"rem","seconds":630},{"createddate":1511319630000,"level":"light","seconds":1470},{"createddate":1511321100000,"level":"wake","seconds":660},{"createddate":1511321760000,"level":"light","seconds":1140},{"createddate":1511322900000,"level":"rem","seconds":1560},{"createddate":1511324460000,"level":"light","seconds":2760},{"createddate":1511327220000,"level":"rem","seconds":330},{"createddate":1511327550000,"level":"light","seconds":1650},{"createddate":1511329200000,"level":"wake","seconds":600},{"createddate":1511329800000,"level":"light","seconds":2490},{"createddate":1511332290000,"level":"deep","seconds":270},{"createddate":1511332560000,"level":"light","seconds":3180},{"createddate":1511335740000,"level":"wake","seconds":420}],"summary":{"deep":{"count":3,"minutes":83,"thirtydayavgminutes":69},"light":{"count":36,"minutes":294,"thirtydayavgminutes":283},"rem":{"count":4,"minutes":41,"thirtydayavgminutes":58},"wake":{"count":36,"minutes":71,"thirtydayavgminutes":66}},"minutesafterwakeup":0,"minutesasleep":418,"minutesawake":71,"minutestofallasleep":0,"startdate":1511306790000,"timeinbed":489,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1511222400000,"duration":30660000,"efficiency":95,"enddate":1511250390000,"entityid":"18_644MGZ_16384526902","infocode":0,"ismainsleep":true,"id":"16384526902","levels":[{"createddate":1511219700000,"level":"wake","seconds":1020},{"createddate":1511220720000,"level":"light","seconds":150},{"createddate":1511220870000,"level":"deep","seconds":420},{"createddate":1511221290000,"level":"light","seconds":3150},{"createddate":1511224440000,"level":"deep","seconds":810},{"createddate":1511225250000,"level":"light","seconds":3930},{"createddate":1511229180000,"level":"deep","seconds":540},{"createddate":1511229720000,"level":"light","seconds":2610},{"createddate":1511232330000,"level":"wake","seconds":330},{"createddate":1511232660000,"level":"light","seconds":1080},{"createddate":1511233740000,"level":"deep","seconds":330},{"createddate":1511234070000,"level":"light","seconds":2550},{"createddate":1511236620000,"level":"rem","seconds":390},{"createddate":1511237010000,"level":"light","seconds":8010},{"createddate":1511245020000,"level":"rem","seconds":270},{"createddate":1511245290000,"level":"light","seconds":1920},{"createddate":1511247210000,"level":"wake","seconds":510},{"createddate":1511247720000,"level":"light","seconds":840},{"createddate":1511248560000,"level":"rem","seconds":810},{"createddate":1511249370000,"level":"wake","seconds":1020}],"summary":{"deep":{"count":4,"minutes":35,"thirtydayavgminutes":72},"light":{"count":32,"minutes":380,"thirtydayavgminutes":275},"rem":{"count":3,"minutes":24,"thirtydayavgminutes":61},"wake":{"count":29,"minutes":72,"thirtydayavgminutes":66}},"minutesafterwakeup":0,"minutesasleep":439,"minutesawake":72,"minutestofallasleep":0,"startdate":1511219700000,"timeinbed":511,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1511136000000,"duration":26640000,"efficiency":97,"enddate":1511163450000,"entityid":"18_644MGZ_16374718382","infocode":0,"ismainsleep":true,"id":"16374718382","levels":[{"createddate":1511136810000,"level":"wake","seconds":690},{"createddate":1511137500000,"level":"deep","seconds":1050},{"createddate":1511138550000,"level":"light","seconds":510},{"createddate":1511139060000,"level":"deep","seconds":1800},{"createddate":1511140860000,"level":"light","seconds":1590},{"createddate":1511142450000,"level":"deep","seconds":1200},{"createddate":1511143650000,"level":"light","seconds":30},{"createddate":1511143680000,"level":"wake","seconds":240},{"createddate":1511143920000,"level":"light","seconds":2490},{"createddate":1511146410000,"level":"deep","seconds":450},{"createddate":1511146860000,"level":"light","seconds":1350},{"createddate":1511148210000,"level":"rem","seconds":330},{"createddate":1511148540000,"level":"light","seconds":3000},{"createddate":1511151540000,"level":"deep","seconds":1140},{"createddate":1511152680000,"level":"light","seconds":930},{"createddate":1511153610000,"level":"rem","seconds":330},{"createddate":1511153940000,"level":"light","seconds":30},{"createddate":1511153970000,"level":"wake","seconds":450},{"createddate":1511154420000,"level":"light","seconds":1230},{"createddate":1511155650000,"level":"rem","seconds":1050},{"createddate":1511156700000,"level":"wake","seconds":450},{"createddate":1511157150000,"level":"light","seconds":4440},{"createddate":1511161590000,"level":"rem","seconds":330},{"createddate":1511161920000,"level":"light","seconds":780},{"createddate":1511162700000,"level":"rem","seconds":270},{"createddate":1511162970000,"level":"wake","seconds":480}],"summary":{"deep":{"count":5,"minutes":90,"thirtydayavgminutes":70},"light":{"count":24,"minutes":263,"thirtydayavgminutes":276},"rem":{"count":5,"minutes":39,"thirtydayavgminutes":62},"wake":{"count":21,"minutes":52,"thirtydayavgminutes":67}},"minutesafterwakeup":0,"minutesasleep":392,"minutesawake":52,"minutestofallasleep":0,"startdate":1511136810000,"timeinbed":444,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1511049600000,"duration":29700000,"efficiency":91,"enddate":1511092680000,"entityid":"18_644MGZ_16367828804","infocode":0,"ismainsleep":true,"id":"16367828804","levels":[{"createddate":1511062980000,"level":"wake","seconds":30},{"createddate":1511063010000,"level":"light","seconds":210},{"createddate":1511063220000,"level":"deep","seconds":330},{"createddate":1511063550000,"level":"light","seconds":540},{"createddate":1511064090000,"level":"deep","seconds":510},{"createddate":1511064600000,"level":"light","seconds":690},{"createddate":1511065290000,"level":"deep","seconds":1800},{"createddate":1511067090000,"level":"light","seconds":870},{"createddate":1511067960000,"level":"deep","seconds":360},{"createddate":1511068320000,"level":"light","seconds":390},{"createddate":1511068710000,"level":"deep","seconds":2610},{"createddate":1511071320000,"level":"light","seconds":2520},{"createddate":1511073840000,"level":"wake","seconds":1380},{"createddate":1511075220000,"level":"light","seconds":2070},{"createddate":1511077290000,"level":"wake","seconds":330},{"createddate":1511077620000,"level":"light","seconds":240},{"createddate":1511077860000,"level":"rem","seconds":2460},{"createddate":1511080320000,"level":"light","seconds":4950},{"createddate":1511085270000,"level":"rem","seconds":780},{"createddate":1511086050000,"level":"light","seconds":540},{"createddate":1511086590000,"level":"wake","seconds":510},{"createddate":1511087100000,"level":"light","seconds":540},{"createddate":1511087640000,"level":"rem","seconds":2400},{"createddate":1511090040000,"level":"light","seconds":480},{"createddate":1511090520000,"level":"rem","seconds":750},{"createddate":1511091270000,"level":"wake","seconds":1410}],"summary":{"deep":{"count":5,"minutes":93,"thirtydayavgminutes":68},"light":{"count":29,"minutes":219,"thirtydayavgminutes":281},"rem":{"count":6,"minutes":105,"thirtydayavgminutes":59},"wake":{"count":25,"minutes":78,"thirtydayavgminutes":66}},"minutesafterwakeup":2,"minutesasleep":417,"minutesawake":78,"minutestofallasleep":0,"startdate":1511062980000,"timeinbed":495,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510963200000,"duration":29640000,"efficiency":93,"enddate":1511000490000,"entityid":"18_644MGZ_16359032323","infocode":0,"ismainsleep":true,"id":"16359032323","levels":[{"createddate":1510970820000,"level":"wake","seconds":30},{"createddate":1510970850000,"level":"light","seconds":2670},{"createddate":1510973520000,"level":"deep","seconds":1800},{"createddate":1510975320000,"level":"wake","seconds":270},{"createddate":1510975590000,"level":"light","seconds":1710},{"createddate":1510977300000,"level":"deep","seconds":390},{"createddate":1510977690000,"level":"light","seconds":870},{"createddate":1510978560000,"level":"rem","seconds":1590},{"createddate":1510980150000,"level":"light","seconds":480},{"createddate":1510980630000,"level":"rem","seconds":870},{"createddate":1510981500000,"level":"light","seconds":9360},{"createddate":1510990860000,"level":"wake","seconds":300},{"createddate":1510991160000,"level":"light","seconds":2070},{"createddate":1510993230000,"level":"deep","seconds":1530},{"createddate":1510994760000,"level":"light","seconds":360},{"createddate":1510995120000,"level":"rem","seconds":1230},{"createddate":1510996350000,"level":"light","seconds":930},{"createddate":1510997280000,"level":"wake","seconds":3210}],"summary":{"deep":{"count":3,"minutes":62,"thirtydayavgminutes":69},"light":{"count":23,"minutes":297,"thirtydayavgminutes":280},"rem":{"count":5,"minutes":60,"thirtydayavgminutes":58},"wake":{"count":22,"minutes":75,"thirtydayavgminutes":65}},"minutesafterwakeup":35,"minutesasleep":419,"minutesawake":75,"minutestofallasleep":0,"startdate":1510970820000,"timeinbed":494,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510876800000,"duration":29100000,"efficiency":96,"enddate":1510903800000,"entityid":"18_644MGZ_16349620800","infocode":0,"ismainsleep":true,"id":"16349620800","levels":[{"createddate":1510874670000,"level":"wake","seconds":1410},{"createddate":1510876080000,"level":"light","seconds":1050},{"createddate":1510877130000,"level":"rem","seconds":330},{"createddate":1510877460000,"level":"light","seconds":1080},{"createddate":1510878540000,"level":"deep","seconds":930},{"createddate":1510879470000,"level":"wake","seconds":570},{"createddate":1510880040000,"level":"light","seconds":1320},{"createddate":1510881360000,"level":"deep","seconds":480},{"createddate":1510881840000,"level":"light","seconds":540},{"createddate":1510882380000,"level":"deep","seconds":1500},{"createddate":1510883880000,"level":"light","seconds":5070},{"createddate":1510888950000,"level":"deep","seconds":870},{"createddate":1510889820000,"level":"light","seconds":330},{"createddate":1510890150000,"level":"deep","seconds":1230},{"createddate":1510891380000,"level":"light","seconds":1920},{"createddate":1510893300000,"level":"rem","seconds":450},{"createddate":1510893750000,"level":"light","seconds":3390},{"createddate":1510897140000,"level":"rem","seconds":750},{"createddate":1510897890000,"level":"light","seconds":630},{"createddate":1510898520000,"level":"wake","seconds":1170},{"createddate":1510899690000,"level":"light","seconds":2370},{"createddate":1510902060000,"level":"rem","seconds":270},{"createddate":1510902330000,"level":"light","seconds":570},{"createddate":1510902900000,"level":"rem","seconds":300},{"createddate":1510903200000,"level":"light","seconds":600}],"summary":{"deep":{"count":5,"minutes":83,"thirtydayavgminutes":67},"light":{"count":36,"minutes":291,"thirtydayavgminutes":279},"rem":{"count":5,"minutes":34,"thirtydayavgminutes":61},"wake":{"count":30,"minutes":77,"thirtydayavgminutes":64}},"minutesafterwakeup":0,"minutesasleep":408,"minutesawake":77,"minutestofallasleep":0,"startdate":1510874670000,"timeinbed":485,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510790400000,"duration":33540000,"efficiency":92,"enddate":1510824270000,"entityid":"18_644MGZ_16340962031","infocode":0,"ismainsleep":true,"id":"16340962031","levels":[{"createddate":1510790700000,"level":"light","seconds":180},{"createddate":1510790880000,"level":"wake","seconds":840},{"createddate":1510791720000,"level":"light","seconds":1650},{"createddate":1510793370000,"level":"rem","seconds":390},{"createddate":1510793760000,"level":"light","seconds":2910},{"createddate":1510796670000,"level":"wake","seconds":240},{"createddate":1510796910000,"level":"light","seconds":2100},{"createddate":1510799010000,"level":"deep","seconds":1470},{"createddate":1510800480000,"level":"light","seconds":3660},{"createddate":1510804140000,"level":"deep","seconds":540},{"createddate":1510804680000,"level":"light","seconds":7020},{"createddate":1510811700000,"level":"rem","seconds":450},{"createddate":1510812150000,"level":"light","seconds":4890},{"createddate":1510817040000,"level":"rem","seconds":2550},{"createddate":1510819590000,"level":"light","seconds":1860},{"createddate":1510821450000,"level":"rem","seconds":720},{"createddate":1510822170000,"level":"light","seconds":600},{"createddate":1510822770000,"level":"wake","seconds":1500}],"summary":{"deep":{"count":2,"minutes":32,"thirtydayavgminutes":72},"light":{"count":31,"minutes":395,"thirtydayavgminutes":264},"rem":{"count":4,"minutes":68,"thirtydayavgminutes":60},"wake":{"count":27,"minutes":64,"thirtydayavgminutes":64}},"minutesafterwakeup":2,"minutesasleep":495,"minutesawake":64,"minutestofallasleep":0,"startdate":1510790700000,"timeinbed":559,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510704000000,"duration":29880000,"efficiency":94,"enddate":1510730940000,"entityid":"18_644MGZ_16331027019","infocode":0,"ismainsleep":true,"id":"16331027019","levels":[{"createddate":1510701060000,"level":"wake","seconds":900},{"createddate":1510701960000,"level":"light","seconds":1290},{"createddate":1510703250000,"level":"deep","seconds":540},{"createddate":1510703790000,"level":"light","seconds":210},{"createddate":1510704000000,"level":"wake","seconds":390},{"createddate":1510704390000,"level":"light","seconds":270},{"createddate":1510704660000,"level":"deep","seconds":2550},{"createddate":1510707210000,"level":"light","seconds":7020},{"createddate":1510714230000,"level":"rem","seconds":450},{"createddate":1510714680000,"level":"light","seconds":180},{"createddate":1510714860000,"level":"wake","seconds":600},{"createddate":1510715460000,"level":"light","seconds":90},{"createddate":1510715550000,"level":"deep","seconds":270},{"createddate":1510715820000,"level":"light","seconds":7170},{"createddate":1510722990000,"level":"rem","seconds":300},{"createddate":1510723290000,"level":"light","seconds":1470},{"createddate":1510724760000,"level":"wake","seconds":420},{"createddate":1510725180000,"level":"light","seconds":5760}],"summary":{"deep":{"count":3,"minutes":55,"thirtydayavgminutes":74},"light":{"count":32,"minutes":367,"thirtydayavgminutes":249},"rem":{"count":2,"minutes":13,"thirtydayavgminutes":67},"wake":{"count":30,"minutes":63,"thirtydayavgminutes":64}},"minutesafterwakeup":0,"minutesasleep":435,"minutesawake":63,"minutestofallasleep":0,"startdate":1510701060000,"timeinbed":498,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510617600000,"duration":31560000,"efficiency":95,"enddate":1510646310000,"entityid":"18_644MGZ_16322829843","infocode":0,"ismainsleep":true,"id":"16322829843","levels":[{"createddate":1510614750000,"level":"wake","seconds":240},{"createddate":1510614990000,"level":"light","seconds":810},{"createddate":1510615800000,"level":"wake","seconds":540},{"createddate":1510616340000,"level":"light","seconds":150},{"createddate":1510616490000,"level":"deep","seconds":330},{"createddate":1510616820000,"level":"light","seconds":600},{"createddate":1510617420000,"level":"deep","seconds":1800},{"createddate":1510619220000,"level":"light","seconds":2520},{"createddate":1510621740000,"level":"deep","seconds":420},{"createddate":1510622160000,"level":"wake","seconds":330},{"createddate":1510622490000,"level":"light","seconds":630},{"createddate":1510623120000,"level":"deep","seconds":3210},{"createddate":1510626330000,"level":"wake","seconds":240},{"createddate":1510626570000,"level":"light","seconds":5160},{"createddate":1510631730000,"level":"rem","seconds":480},{"createddate":1510632210000,"level":"light","seconds":1830},{"createddate":1510634040000,"level":"rem","seconds":270},{"createddate":1510634310000,"level":"light","seconds":360},{"createddate":1510634670000,"level":"wake","seconds":450},{"createddate":1510635120000,"level":"light","seconds":1590},{"createddate":1510636710000,"level":"wake","seconds":240},{"createddate":1510636950000,"level":"light","seconds":180},{"createddate":1510637130000,"level":"wake","seconds":570},{"createddate":1510637700000,"level":"light","seconds":720},{"createddate":1510638420000,"level":"rem","seconds":360},{"createddate":1510638780000,"level":"wake","seconds":210},{"createddate":1510638990000,"level":"light","seconds":360},{"createddate":1510639350000,"level":"rem","seconds":1710},{"createddate":1510641060000,"level":"light","seconds":1800},{"createddate":1510642860000,"level":"rem","seconds":360},{"createddate":1510643220000,"level":"light","seconds":630},{"createddate":1510643850000,"level":"rem","seconds":450},{"createddate":1510644300000,"level":"light","seconds":1500},{"createddate":1510645800000,"level":"rem","seconds":270},{"createddate":1510646070000,"level":"wake","seconds":240}],"summary":{"deep":{"count":4,"minutes":96,"thirtydayavgminutes":70},"light":{"count":34,"minutes":300,"thirtydayavgminutes":241},"rem":{"count":8,"minutes":64,"thirtydayavgminutes":68},"wake":{"count":32,"minutes":66,"thirtydayavgminutes":63}},"minutesafterwakeup":0,"minutesasleep":460,"minutesawake":66,"minutestofallasleep":0,"startdate":1510614750000,"timeinbed":526,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510531200000,"duration":30840000,"efficiency":95,"enddate":1510558170000,"entityid":"18_644MGZ_16313879003","infocode":0,"ismainsleep":true,"id":"16313879003","levels":[{"createddate":1510527300000,"level":"wake","seconds":720},{"createddate":1510528020000,"level":"light","seconds":570},{"createddate":1510528590000,"level":"wake","seconds":630},{"createddate":1510529220000,"level":"light","seconds":270},{"createddate":1510529490000,"level":"deep","seconds":360},{"createddate":1510529850000,"level":"light","seconds":750},{"createddate":1510530600000,"level":"rem","seconds":480},{"createddate":1510531080000,"level":"light","seconds":210},{"createddate":1510531290000,"level":"deep","seconds":810},{"createddate":1510532100000,"level":"light","seconds":3120},{"createddate":1510535220000,"level":"wake","seconds":240},{"createddate":1510535460000,"level":"light","seconds":990},{"createddate":1510536450000,"level":"deep","seconds":1680},{"createddate":1510538130000,"level":"wake","seconds":390},{"createddate":1510538520000,"level":"light","seconds":3390},{"createddate":1510541910000,"level":"rem","seconds":270},{"createddate":1510542180000,"level":"light","seconds":810},{"createddate":1510542990000,"level":"rem","seconds":1020},{"createddate":1510544010000,"level":"wake","seconds":390},{"createddate":1510544400000,"level":"light","seconds":2610},{"createddate":1510547010000,"level":"deep","seconds":1950},{"createddate":1510548960000,"level":"light","seconds":930},{"createddate":1510549890000,"level":"rem","seconds":1050},{"createddate":1510550940000,"level":"light","seconds":6330},{"createddate":1510557270000,"level":"wake","seconds":390},{"createddate":1510557660000,"level":"light","seconds":510}],"summary":{"deep":{"count":4,"minutes":78,"thirtydayavgminutes":69},"light":{"count":35,"minutes":315,"thirtydayavgminutes":226},"rem":{"count":4,"minutes":46,"thirtydayavgminutes":72},"wake":{"count":34,"minutes":75,"thirtydayavgminutes":61}},"minutesafterwakeup":0,"minutesasleep":439,"minutesawake":75,"minutestofallasleep":0,"startdate":1510527300000,"timeinbed":514,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510444800000,"duration":25200000,"efficiency":94,"enddate":1510485120000,"entityid":"18_644MGZ_16306195551","infocode":0,"ismainsleep":true,"id":"16306195551","levels":[{"createddate":1510459890000,"level":"wake","seconds":30},{"createddate":1510459920000,"level":"light","seconds":870},{"createddate":1510460790000,"level":"deep","seconds":3450},{"createddate":1510464240000,"level":"light","seconds":1110},{"createddate":1510465350000,"level":"wake","seconds":210},{"createddate":1510465560000,"level":"light","seconds":1890},{"createddate":1510467450000,"level":"deep","seconds":870},{"createddate":1510468320000,"level":"light","seconds":1590},{"createddate":1510469910000,"level":"wake","seconds":330},{"createddate":1510470240000,"level":"light","seconds":2580},{"createddate":1510472820000,"level":"rem","seconds":630},{"createddate":1510473450000,"level":"light","seconds":720},{"createddate":1510474170000,"level":"rem","seconds":660},{"createddate":1510474830000,"level":"light","seconds":330},{"createddate":1510475160000,"level":"wake","seconds":300},{"createddate":1510475460000,"level":"light","seconds":480},{"createddate":1510475940000,"level":"rem","seconds":450},{"createddate":1510476390000,"level":"light","seconds":2040},{"createddate":1510478430000,"level":"wake","seconds":870},{"createddate":1510479300000,"level":"light","seconds":1830},{"createddate":1510481130000,"level":"wake","seconds":210},{"createddate":1510481340000,"level":"light","seconds":270},{"createddate":1510481610000,"level":"rem","seconds":1140},{"createddate":1510482750000,"level":"light","seconds":30},{"createddate":1510482780000,"level":"wake","seconds":660},{"createddate":1510483440000,"level":"light","seconds":120},{"createddate":1510483560000,"level":"wake","seconds":1560}],"summary":{"deep":{"count":2,"minutes":72,"thirtydayavgminutes":68},"light":{"count":23,"minutes":218,"thirtydayavgminutes":228},"rem":{"count":4,"minutes":48,"thirtydayavgminutes":78},"wake":{"count":19,"minutes":82,"thirtydayavgminutes":56}},"minutesafterwakeup":0,"minutesasleep":338,"minutesawake":82,"minutestofallasleep":0,"startdate":1510459890000,"timeinbed":420,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510358400000,"duration":31380000,"efficiency":91,"enddate":1510395090000,"entityid":"18_644MGZ_16297722958","infocode":0,"ismainsleep":true,"id":"16297722958","levels":[{"createddate":1510363710000,"level":"wake","seconds":30},{"createddate":1510363740000,"level":"light","seconds":1980},{"createddate":1510365720000,"level":"deep","seconds":2310},{"createddate":1510368030000,"level":"light","seconds":2220},{"createddate":1510370250000,"level":"deep","seconds":300},{"createddate":1510370550000,"level":"light","seconds":900},{"createddate":1510371450000,"level":"deep","seconds":2070},{"createddate":1510373520000,"level":"light","seconds":2910},{"createddate":1510376430000,"level":"deep","seconds":1920},{"createddate":1510378350000,"level":"light","seconds":720},{"createddate":1510379070000,"level":"rem","seconds":270},{"createddate":1510379340000,"level":"light","seconds":780},{"createddate":1510380120000,"level":"rem","seconds":750},{"createddate":1510380870000,"level":"light","seconds":420},{"createddate":1510381290000,"level":"rem","seconds":270},{"createddate":1510381560000,"level":"light","seconds":570},{"createddate":1510382130000,"level":"rem","seconds":390},{"createddate":1510382520000,"level":"light","seconds":450},{"createddate":1510382970000,"level":"rem","seconds":900},{"createddate":1510383870000,"level":"light","seconds":990},{"createddate":1510384860000,"level":"rem","seconds":930},{"createddate":1510385790000,"level":"wake","seconds":240},{"createddate":1510386030000,"level":"light","seconds":870},{"createddate":1510386900000,"level":"rem","seconds":1620},{"createddate":1510388520000,"level":"light","seconds":210},{"createddate":1510388730000,"level":"wake","seconds":360},{"createddate":1510389090000,"level":"light","seconds":870},{"createddate":1510389960000,"level":"rem","seconds":300},{"createddate":1510390260000,"level":"light","seconds":1560},{"createddate":1510391820000,"level":"wake","seconds":900},{"createddate":1510392720000,"level":"light","seconds":150},{"createddate":1510392870000,"level":"wake","seconds":2220}],"summary":{"deep":{"count":4,"minutes":107,"thirtydayavgminutes":55},"light":{"count":26,"minutes":249,"thirtydayavgminutes":221},"rem":{"count":8,"minutes":91,"thirtydayavgminutes":73},"wake":{"count":19,"minutes":76,"thirtydayavgminutes":49}},"minutesafterwakeup":0,"minutesasleep":447,"minutesawake":76,"minutestofallasleep":0,"startdate":1510363710000,"timeinbed":523,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510272000000,"duration":29580000,"efficiency":94,"enddate":1510296270000,"entityid":"18_644MGZ_16288884373","infocode":0,"ismainsleep":true,"id":"16288884373","levels":[{"createddate":1510266690000,"level":"wake","seconds":360},{"createddate":1510267050000,"level":"light","seconds":810},{"createddate":1510267860000,"level":"deep","seconds":480},{"createddate":1510268340000,"level":"light","seconds":180},{"createddate":1510268520000,"level":"deep","seconds":930},{"createddate":1510269450000,"level":"light","seconds":330},{"createddate":1510269780000,"level":"deep","seconds":300},{"createddate":1510270080000,"level":"light","seconds":480},{"createddate":1510270560000,"level":"deep","seconds":1290},{"createddate":1510271850000,"level":"light","seconds":1620},{"createddate":1510273470000,"level":"wake","seconds":780},{"createddate":1510274250000,"level":"light","seconds":90},{"createddate":1510274340000,"level":"rem","seconds":300},{"createddate":1510274640000,"level":"light","seconds":1440},{"createddate":1510276080000,"level":"deep","seconds":1830},{"createddate":1510277910000,"level":"light","seconds":1200},{"createddate":1510279110000,"level":"rem","seconds":1770},{"createddate":1510280880000,"level":"wake","seconds":540},{"createddate":1510281420000,"level":"light","seconds":2970},{"createddate":1510284390000,"level":"rem","seconds":1590},{"createddate":1510285980000,"level":"light","seconds":1350},{"createddate":1510287330000,"level":"deep","seconds":510},{"createddate":1510287840000,"level":"light","seconds":1560},{"createddate":1510289400000,"level":"rem","seconds":1320},{"createddate":1510290720000,"level":"wake","seconds":240},{"createddate":1510290960000,"level":"light","seconds":930},{"createddate":1510291890000,"level":"rem","seconds":990},{"createddate":1510292880000,"level":"light","seconds":1200},{"createddate":1510294080000,"level":"rem","seconds":330},{"createddate":1510294410000,"level":"light","seconds":1050},{"createddate":1510295460000,"level":"wake","seconds":810}],"summary":{"deep":{"count":6,"minutes":86,"thirtydayavgminutes":40},"light":{"count":23,"minutes":238,"thirtydayavgminutes":213},"rem":{"count":11,"minutes":102,"thirtydayavgminutes":59},"wake":{"count":27,"minutes":67,"thirtydayavgminutes":40}},"minutesafterwakeup":0,"minutesasleep":426,"minutesawake":67,"minutestofallasleep":0,"startdate":1510266690000,"timeinbed":493,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510185600000,"duration":13560000,"efficiency":99,"enddate":1510206900000,"entityid":"18_644MGZ_16280600294","infocode":0,"ismainsleep":true,"id":"16280600294","levels":[{"createddate":1510193310000,"level":"wake","seconds":30},{"createddate":1510193340000,"level":"light","seconds":870},{"createddate":1510194210000,"level":"deep","seconds":870},{"createddate":1510195080000,"level":"light","seconds":270},{"createddate":1510195350000,"level":"rem","seconds":1650},{"createddate":1510197000000,"level":"light","seconds":1530},{"createddate":1510198530000,"level":"deep","seconds":270},{"createddate":1510198800000,"level":"light","seconds":3120},{"createddate":1510201920000,"level":"deep","seconds":360},{"createddate":1510202280000,"level":"light","seconds":90},{"createddate":1510202370000,"level":"rem","seconds":1290},{"createddate":1510203660000,"level":"light","seconds":3000},{"createddate":1510206660000,"level":"wake","seconds":240}],"summary":{"deep":{"count":3,"minutes":24,"thirtydayavgminutes":55},"light":{"count":11,"minutes":141,"thirtydayavgminutes":285},"rem":{"count":6,"minutes":45,"thirtydayavgminutes":73},"wake":{"count":13,"minutes":16,"thirtydayavgminutes":63}},"minutesafterwakeup":3,"minutesasleep":210,"minutesawake":16,"minutestofallasleep":0,"startdate":1510193310000,"timeinbed":226,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1510099200000,"duration":28560000,"efficiency":96,"enddate":1510124490000,"entityid":"18_644MGZ_16270925744","infocode":0,"ismainsleep":true,"id":"16270925744","levels":[{"createddate":1510095900000,"level":"wake","seconds":270},{"createddate":1510096170000,"level":"light","seconds":1500},{"createddate":1510097670000,"level":"wake","seconds":510},{"createddate":1510098180000,"level":"light","seconds":1860},{"createddate":1510100040000,"level":"deep","seconds":2490},{"createddate":1510102530000,"level":"rem","seconds":1380},{"createddate":1510103910000,"level":"light","seconds":1080},{"createddate":1510104990000,"level":"deep","seconds":300},{"createddate":1510105290000,"level":"light","seconds":810},{"createddate":1510106100000,"level":"deep","seconds":270},{"createddate":1510106370000,"level":"light","seconds":2130},{"createddate":1510108500000,"level":"rem","seconds":300},{"createddate":1510108800000,"level":"light","seconds":4410},{"createddate":1510113210000,"level":"deep","seconds":420},{"createddate":1510113630000,"level":"light","seconds":1680},{"createddate":1510115310000,"level":"wake","seconds":450},{"createddate":1510115760000,"level":"light","seconds":690},{"createddate":1510116450000,"level":"wake","seconds":330},{"createddate":1510116780000,"level":"light","seconds":2970},{"createddate":1510119750000,"level":"rem","seconds":1410},{"createddate":1510121160000,"level":"light","seconds":990},{"createddate":1510122150000,"level":"rem","seconds":1320},{"createddate":1510123470000,"level":"light","seconds":600},{"createddate":1510124070000,"level":"wake","seconds":420}],"summary":{"deep":{"count":4,"minutes":55,"thirtydayavgminutes":0},"light":{"count":34,"minutes":285,"thirtydayavgminutes":0},"rem":{"count":5,"minutes":73,"thirtydayavgminutes":0},"wake":{"count":32,"minutes":63,"thirtydayavgminutes":0}},"minutesafterwakeup":0,"minutesasleep":413,"minutesawake":63,"minutestofallasleep":0,"startdate":1510095900000,"timeinbed":476,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1512000000000,"duration":23340000,"efficiency":95,"enddate":1512027750000,"entityid":"18_644MGZ_16462249480","infocode":0,"ismainsleep":true,"id":"16462249480","levels":[{"createddate":1512004410000,"level":"wake","seconds":30},{"createddate":1512004440000,"level":"light","seconds":990},{"createddate":1512005430000,"level":"deep","seconds":1980},{"createddate":1512007410000,"level":"light","seconds":1500},{"createddate":1512008910000,"level":"deep","seconds":270},{"createddate":1512009180000,"level":"light","seconds":1110},{"createddate":1512010290000,"level":"wake","seconds":990},{"createddate":1512011280000,"level":"light","seconds":780},{"createddate":1512012060000,"level":"deep","seconds":1740},{"createddate":1512013800000,"level":"wake","seconds":270},{"createddate":1512014070000,"level":"light","seconds":1830},{"createddate":1512015900000,"level":"wake","seconds":300},{"createddate":1512016200000,"level":"light","seconds":570},{"createddate":1512016770000,"level":"wake","seconds":510},{"createddate":1512017280000,"level":"light","seconds":2280},{"createddate":1512019560000,"level":"rem","seconds":1590},{"createddate":1512021150000,"level":"light","seconds":360},{"createddate":1512021510000,"level":"rem","seconds":1620},{"createddate":1512023130000,"level":"light","seconds":2250},{"createddate":1512025380000,"level":"wake","seconds":300},{"createddate":1512025680000,"level":"light","seconds":2070}],"summary":{"deep":{"count":3,"minutes":66,"thirtydayavgminutes":81},"light":{"count":20,"minutes":215,"thirtydayavgminutes":275},"rem":{"count":4,"minutes":53,"thirtydayavgminutes":52},"wake":{"count":20,"minutes":55,"thirtydayavgminutes":56}},"minutesafterwakeup":0,"minutesasleep":334,"minutesawake":55,"minutestofallasleep":0,"startdate":1512004410000,"timeinbed":389,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1511913600000,"duration":28320000,"efficiency":96,"enddate":1511940450000,"entityid":"18_644MGZ_16453472253","infocode":0,"ismainsleep":true,"id":"16453472253","levels":[{"createddate":1511912130000,"level":"wake","seconds":390},{"createddate":1511912520000,"level":"deep","seconds":480},{"createddate":1511913000000,"level":"light","seconds":810},{"createddate":1511913810000,"level":"deep","seconds":1320},{"createddate":1511915130000,"level":"light","seconds":780},{"createddate":1511915910000,"level":"deep","seconds":810},{"createddate":1511916720000,"level":"light","seconds":360},{"createddate":1511917080000,"level":"wake","seconds":240},{"createddate":1511917320000,"level":"light","seconds":1110},{"createddate":1511918430000,"level":"deep","seconds":750},{"createddate":1511919180000,"level":"light","seconds":4530},{"createddate":1511923710000,"level":"deep","seconds":810},{"createddate":1511924520000,"level":"light","seconds":6960},{"createddate":1511931480000,"level":"rem","seconds":1350},{"createddate":1511932830000,"level":"light","seconds":1350},{"createddate":1511934180000,"level":"wake","seconds":420},{"createddate":1511934600000,"level":"light","seconds":1260},{"createddate":1511935860000,"level":"deep","seconds":1260},{"createddate":1511937120000,"level":"light","seconds":330},{"createddate":1511937450000,"level":"rem","seconds":360},{"createddate":1511937810000,"level":"light","seconds":660},{"createddate":1511938470000,"level":"rem","seconds":360},{"createddate":1511938830000,"level":"light","seconds":510},{"createddate":1511939340000,"level":"wake","seconds":300},{"createddate":1511939640000,"level":"light","seconds":240},{"createddate":1511939880000,"level":"rem","seconds":480},{"createddate":1511940360000,"level":"light","seconds":90}],"summary":{"deep":{"count":6,"minutes":89,"thirtydayavgminutes":72},"light":{"count":31,"minutes":294,"thirtydayavgminutes":255},"rem":{"count":4,"minutes":40,"thirtydayavgminutes":63},"wake":{"count":28,"minutes":49,"thirtydayavgminutes":62}},"minutesafterwakeup":0,"minutesasleep":423,"minutesawake":49,"minutestofallasleep":0,"startdate":1511912130000,"timeinbed":472,"type":"stages"},{"accountentityid":"18_644MGZ","createddate":1511827200000,"duration":27120000,"efficiency":95,"enddate":1511854170000,"entityid":"18_644MGZ_16443358988","infocode":0,"ismainsleep":true,"id":"16443358988","levels":[{"createddate":1511827050000,"level":"wake","seconds":750},{"createddate":1511827800000,"level":"light","seconds":360},{"createddate":1511828160000,"level":"wake","seconds":1080},{"createddate":1511829240000,"level":"light","seconds":2130},{"createddate":1511831370000,"level":"wake","seconds":210},{"createddate":1511831580000,"level":"light","seconds":1920},{"createddate":1511833500000,"level":"rem","seconds":390},{"createddate":1511833890000,"level":"light","seconds":360},{"createddate":1511834250000,"level":"rem","seconds":300},{"createddate":1511834550000,"level":"light","seconds":60},{"createddate":1511834610000,"level":"deep","seconds":1080},{"createddate":1511835690000,"level":"light","seconds":780},{"createddate":1511836470000,"level":"deep","seconds":1290},{"createddate":1511837760000,"level":"light","seconds":1410},{"createddate":1511839170000,"level":"deep","seconds":900},{"createddate":1511840070000,"level":"light","seconds":4500},{"createddate":1511844570000,"level":"deep","seconds":1140},{"createddate":1511845710000,"level":"light","seconds":30},{"createddate":1511845740000,"level":"wake","seconds":270},{"createddate":1511846010000,"level":"light","seconds":1200},{"createddate":1511847210000,"level":"rem","seconds":330},{"createddate":1511847540000,"level":"light","seconds":3300},{"createddate":1511850840000,"level":"rem","seconds":450},{"createddate":1511851290000,"level":"light","seconds":390},{"createddate":1511851680000,"level":"rem","seconds":2280},{"createddate":1511853960000,"level":"wake","seconds":210}],"summary":{"deep":{"count":4,"minutes":72,"thirtydayavgminutes":0},"light":{"count":34,"minutes":255,"thirtydayavgminutes":0},"rem":{"count":5,"minutes":63,"thirtydayavgminutes":0},"wake":{"count":29,"minutes":62,"thirtydayavgminutes":0}},"minutesafterwakeup":0,"minutesasleep":390,"minutesawake":62,"minutestofallasleep":0,"startdate":1511827050000,"timeinbed":452,"type":"stages"}],"fileDescriptor":{"objectCount":22,"objectType":"sleep","serviceGroup":"health fitness","serviceName":"fitbit"},"fileName":"18_4_18_3_303_D201711_1.json","fileList":["18_1_4_2_7_D201709_1.json","18_2_16_10_129_D201804_1.json","18_2_16_10_130_D201710_1.json","18_2_16_10_130_D201801_1.json","18_2_16_10_132_D201709_1.json","18_2_16_10_136_D201802_1.json","18_2_16_10_136_D201805_1.json","18_2_16_10_136_D201806_1.json","18_1_4_2_2_D201709_1.json","18_1_4_2_2_D201710_1.json","18_2_16_10_129_D201707_1.json","18_2_16_10_130_D201711_1.json","18_2_16_10_130_D201804_1.json","18_2_16_10_132_D201801_1.json","18_2_16_10_136_D201710_1.json","18_1_4_2_1_D201709_1.json","18_2_16_10_132_D201712_1.json","18_1_4_2_1_D201710_1.json","18_5_19_6_406_D201805_1.json","18_2_16_10_132_D201802_1.json","18_1_4_2_7_D201708_1.json","18_5_19_6_405_D201803_1.json","18_5_19_6_405_D201805_1.json","18_2_16_10_130_D201806_1.json","18_2_16_10_136_D201709_1.json","18_1_4_2_2_D201804_1.json","18_2_16_10_130_D201803_1.json","18_1_9_1_2_D201804_1.json","18_4_18_3_301_D201804_1.json","18_1_4_2_1_D201804_1.json","18_1_4_2_2_D201801_1.json","18_1_9_1_1_D201804_1.json","18_1_9_1_2_D201709_1.json","18_1_4_2_1_D201801_1.json","18_4_18_3_303_D201804_1.json","18_4_18_3_300_D201804_1.json","18_1_9_1_2_D201707_1.json","18_4_18_3_300_D201711_1.json","18_4_18_3_301_D201711_1.json","18_1_9_1_2_D201711_1.json","18_4_18_3_301_D201802_1.json","18_4_18_3_301_D201712_1.json","18_4_18_3_301_D201801_1.json","18_4_18_3_301_D201803_1.json","18_4_18_3_300_D201712_1.json","18_1_9_1_1_D201709_1.json","18_4_18_3_300_D201802_1.json","18_4_18_3_303_D201711_1.json","18_1_9_1_1_D201707_1.json","18_4_18_3_300_D201803_1.json","18_4_18_3_303_D201802_1.json","18_5_19_6_406_D201712_1.json","18_4_18_3_300_D201801_1.json","18_1_9_1_1_D201711_1.json","18_4_18_3_303_D201801_1.json","18_4_18_3_303_D201803_1.json","18_5_19_6_406_D201806_1.json","18_4_18_3_303_D201712_1.json","18_1_3_7_1_D201806_1.json","18_1_3_7_2_D201806_1.json","18_5_19_6_406_D201801_1.json","18_1_3_7_1_D201804_1.json","18_1_3_7_2_D201804_1.json","18_1_3_7_2_D201801_1.json","18_1_3_7_2_D201707_1.json","18_1_3_7_1_D201801_1.json","18_1_3_7_2_D201712_1.json","18_1_3_7_1_D201802_1.json","18_1_3_7_2_D201706_1.json","18_1_3_7_1_D201712_1.json","18_1_3_7_1_D201803_1.json","18_1_3_7_1_D201707_1.json","18_1_3_7_2_D201709_1.json","18_1_3_7_2_D201711_1.json","18_1_3_7_1_D201711_1.json","18_1_3_7_1_D201709_1.json","18_1_3_7_1_D201706_1.json","18_1_3_7_1_D201708_1.json","18_1_3_7_2_D201710_1.json","18_1_3_7_1_D201710_1.json","18_1_3_7_2_D201802_1.json","18_1_3_7_2_D201803_1.json","18_1_3_7_2_D201708_1.json","18_5_19_6_404_D201712_1.json","18_5_19_6_405_D201712_1.json"]}
+{
+    "fileData": [
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511740800000,
+            "duration": 36000000,
+            "efficiency": 97,
+            "enddate": 1511767650000,
+            "entityid": "18_644MGZ_16437073544",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16437073544",
+            "levels": [
+                {
+                    "createddate": 1511731650000,
+                    "level": "wake",
+                    "seconds": 150
+                },
+                {
+                    "createddate": 1511731800000,
+                    "level": "light",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1511731830000,
+                    "level": "deep",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1511732310000,
+                    "level": "light",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1511732820000,
+                    "level": "deep",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511733120000,
+                    "level": "light",
+                    "seconds": 90
+                },
+                {
+                    "createddate": 1511733210000,
+                    "level": "rem",
+                    "seconds": 960
+                },
+                {
+                    "createddate": 1511734170000,
+                    "level": "light",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1511734200000,
+                    "level": "deep",
+                    "seconds": 1440
+                },
+                {
+                    "createddate": 1511735640000,
+                    "level": "light",
+                    "seconds": 3960
+                },
+                {
+                    "createddate": 1511739600000,
+                    "level": "wake",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511739990000,
+                    "level": "rem",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511740320000,
+                    "level": "light",
+                    "seconds": 1230
+                },
+                {
+                    "createddate": 1511741550000,
+                    "level": "wake",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1511742000000,
+                    "level": "light",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1511742210000,
+                    "level": "deep",
+                    "seconds": 2760
+                },
+                {
+                    "createddate": 1511744970000,
+                    "level": "light",
+                    "seconds": 4620
+                },
+                {
+                    "createddate": 1511749590000,
+                    "level": "wake",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1511750100000,
+                    "level": "light",
+                    "seconds": 2730
+                },
+                {
+                    "createddate": 1511752830000,
+                    "level": "rem",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1511753310000,
+                    "level": "light",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1511753550000,
+                    "level": "wake",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1511753760000,
+                    "level": "rem",
+                    "seconds": 570
+                },
+                {
+                    "createddate": 1511754330000,
+                    "level": "light",
+                    "seconds": 5430
+                },
+                {
+                    "createddate": 1511759760000,
+                    "level": "rem",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511760060000,
+                    "level": "light",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511760390000,
+                    "level": "rem",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1511761260000,
+                    "level": "wake",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511761560000,
+                    "level": "light",
+                    "seconds": 1170
+                },
+                {
+                    "createddate": 1511762730000,
+                    "level": "wake",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1511763000000,
+                    "level": "light",
+                    "seconds": 960
+                },
+                {
+                    "createddate": 1511763960000,
+                    "level": "rem",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1511764500000,
+                    "level": "light",
+                    "seconds": 60
+                },
+                {
+                    "createddate": 1511764560000,
+                    "level": "deep",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511764950000,
+                    "level": "rem",
+                    "seconds": 2700
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 5,
+                    "minutes": 88,
+                    "thirtydayavgminutes": 72
+                },
+                "light": {
+                    "count": 45,
+                    "minutes": 333,
+                    "thirtydayavgminutes": 283
+                },
+                "rem": {
+                    "count": 9,
+                    "minutes": 109,
+                    "thirtydayavgminutes": 55
+                },
+                "wake": {
+                    "count": 43,
+                    "minutes": 70,
+                    "thirtydayavgminutes": 68
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 530,
+            "minutesawake": 70,
+            "minutestofallasleep": 0,
+            "startdate": 1511731650000,
+            "timeinbed": 600,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511568000000,
+            "duration": 28680000,
+            "efficiency": 93,
+            "enddate": 1511605770000,
+            "entityid": "18_644MGZ_16437073543",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16437073543",
+            "levels": [
+                {
+                    "createddate": 1511577090000,
+                    "level": "wake",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1511577120000,
+                    "level": "deep",
+                    "seconds": 3630
+                },
+                {
+                    "createddate": 1511580750000,
+                    "level": "light",
+                    "seconds": 4050
+                },
+                {
+                    "createddate": 1511584800000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1511585040000,
+                    "level": "light",
+                    "seconds": 1260
+                },
+                {
+                    "createddate": 1511586300000,
+                    "level": "wake",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1511586510000,
+                    "level": "light",
+                    "seconds": 1140
+                },
+                {
+                    "createddate": 1511587650000,
+                    "level": "deep",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1511587920000,
+                    "level": "light",
+                    "seconds": 1140
+                },
+                {
+                    "createddate": 1511589060000,
+                    "level": "wake",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1511589270000,
+                    "level": "light",
+                    "seconds": 4230
+                },
+                {
+                    "createddate": 1511593500000,
+                    "level": "deep",
+                    "seconds": 1110
+                },
+                {
+                    "createddate": 1511594610000,
+                    "level": "wake",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1511594880000,
+                    "level": "light",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511595180000,
+                    "level": "rem",
+                    "seconds": 1530
+                },
+                {
+                    "createddate": 1511596710000,
+                    "level": "light",
+                    "seconds": 3060
+                },
+                {
+                    "createddate": 1511599770000,
+                    "level": "wake",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1511600220000,
+                    "level": "light",
+                    "seconds": 1530
+                },
+                {
+                    "createddate": 1511601750000,
+                    "level": "wake",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511602080000,
+                    "level": "light",
+                    "seconds": 1290
+                },
+                {
+                    "createddate": 1511603370000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1511603610000,
+                    "level": "light",
+                    "seconds": 570
+                },
+                {
+                    "createddate": 1511604180000,
+                    "level": "wake",
+                    "seconds": 1590
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 3,
+                    "minutes": 78,
+                    "thirtydayavgminutes": 71
+                },
+                "light": {
+                    "count": 22,
+                    "minutes": 295,
+                    "thirtydayavgminutes": 282
+                },
+                "rem": {
+                    "count": 1,
+                    "minutes": 26,
+                    "thirtydayavgminutes": 57
+                },
+                "wake": {
+                    "count": 22,
+                    "minutes": 79,
+                    "thirtydayavgminutes": 67
+                }
+            },
+            "minutesafterwakeup": 3,
+            "minutesasleep": 399,
+            "minutesawake": 79,
+            "minutestofallasleep": 0,
+            "startdate": 1511577090000,
+            "timeinbed": 478,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511481600000,
+            "duration": 30000000,
+            "efficiency": 96,
+            "enddate": 1511513040000,
+            "entityid": "18_644MGZ_16410169378",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16410169378",
+            "levels": [
+                {
+                    "createddate": 1511483040000,
+                    "level": "wake",
+                    "seconds": 2160
+                },
+                {
+                    "createddate": 1511485200000,
+                    "level": "light",
+                    "seconds": 930
+                },
+                {
+                    "createddate": 1511486130000,
+                    "level": "deep",
+                    "seconds": 600
+                },
+                {
+                    "createddate": 1511486730000,
+                    "level": "light",
+                    "seconds": 1020
+                },
+                {
+                    "createddate": 1511487750000,
+                    "level": "deep",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511488080000,
+                    "level": "light",
+                    "seconds": 3270
+                },
+                {
+                    "createddate": 1511491350000,
+                    "level": "deep",
+                    "seconds": 3180
+                },
+                {
+                    "createddate": 1511494530000,
+                    "level": "light",
+                    "seconds": 2490
+                },
+                {
+                    "createddate": 1511497020000,
+                    "level": "rem",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511497410000,
+                    "level": "light",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1511497650000,
+                    "level": "deep",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511498040000,
+                    "level": "light",
+                    "seconds": 2640
+                },
+                {
+                    "createddate": 1511500680000,
+                    "level": "wake",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1511501160000,
+                    "level": "light",
+                    "seconds": 2610
+                },
+                {
+                    "createddate": 1511503770000,
+                    "level": "rem",
+                    "seconds": 1020
+                },
+                {
+                    "createddate": 1511504790000,
+                    "level": "light",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511505120000,
+                    "level": "rem",
+                    "seconds": 690
+                },
+                {
+                    "createddate": 1511505810000,
+                    "level": "light",
+                    "seconds": 570
+                },
+                {
+                    "createddate": 1511506380000,
+                    "level": "wake",
+                    "seconds": 420
+                },
+                {
+                    "createddate": 1511506800000,
+                    "level": "light",
+                    "seconds": 2250
+                },
+                {
+                    "createddate": 1511509050000,
+                    "level": "rem",
+                    "seconds": 1590
+                },
+                {
+                    "createddate": 1511510640000,
+                    "level": "light",
+                    "seconds": 1620
+                },
+                {
+                    "createddate": 1511512260000,
+                    "level": "wake",
+                    "seconds": 780
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 4,
+                    "minutes": 74,
+                    "thirtydayavgminutes": 71
+                },
+                "light": {
+                    "count": 29,
+                    "minutes": 280,
+                    "thirtydayavgminutes": 282
+                },
+                "rem": {
+                    "count": 4,
+                    "minutes": 62,
+                    "thirtydayavgminutes": 56
+                },
+                "wake": {
+                    "count": 24,
+                    "minutes": 84,
+                    "thirtydayavgminutes": 66
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 416,
+            "minutesawake": 84,
+            "minutestofallasleep": 0,
+            "startdate": 1511483040000,
+            "timeinbed": 500,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511395200000,
+            "duration": 27600000,
+            "efficiency": 95,
+            "enddate": 1511422620000,
+            "entityid": "18_644MGZ_16401721971",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16401721971",
+            "levels": [
+                {
+                    "createddate": 1511394990000,
+                    "level": "wake",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511395290000,
+                    "level": "light",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1511396160000,
+                    "level": "deep",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511396460000,
+                    "level": "light",
+                    "seconds": 1080
+                },
+                {
+                    "createddate": 1511397540000,
+                    "level": "deep",
+                    "seconds": 1680
+                },
+                {
+                    "createddate": 1511399220000,
+                    "level": "light",
+                    "seconds": 1590
+                },
+                {
+                    "createddate": 1511400810000,
+                    "level": "wake",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1511401020000,
+                    "level": "light",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511401350000,
+                    "level": "deep",
+                    "seconds": 2130
+                },
+                {
+                    "createddate": 1511403480000,
+                    "level": "wake",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1511403960000,
+                    "level": "light",
+                    "seconds": 2100
+                },
+                {
+                    "createddate": 1511406060000,
+                    "level": "rem",
+                    "seconds": 420
+                },
+                {
+                    "createddate": 1511406480000,
+                    "level": "light",
+                    "seconds": 2790
+                },
+                {
+                    "createddate": 1511409270000,
+                    "level": "deep",
+                    "seconds": 1260
+                },
+                {
+                    "createddate": 1511410530000,
+                    "level": "wake",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511410920000,
+                    "level": "light",
+                    "seconds": 3030
+                },
+                {
+                    "createddate": 1511413950000,
+                    "level": "rem",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511414250000,
+                    "level": "light",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1511414280000,
+                    "level": "wake",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511414580000,
+                    "level": "light",
+                    "seconds": 1650
+                },
+                {
+                    "createddate": 1511416230000,
+                    "level": "rem",
+                    "seconds": 1350
+                },
+                {
+                    "createddate": 1511417580000,
+                    "level": "wake",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511417880000,
+                    "level": "light",
+                    "seconds": 3180
+                },
+                {
+                    "createddate": 1511421060000,
+                    "level": "rem",
+                    "seconds": 840
+                },
+                {
+                    "createddate": 1511421900000,
+                    "level": "wake",
+                    "seconds": 720
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 4,
+                    "minutes": 87,
+                    "thirtydayavgminutes": 70
+                },
+                "light": {
+                    "count": 22,
+                    "minutes": 264,
+                    "thirtydayavgminutes": 283
+                },
+                "rem": {
+                    "count": 6,
+                    "minutes": 47,
+                    "thirtydayavgminutes": 57
+                },
+                "wake": {
+                    "count": 22,
+                    "minutes": 62,
+                    "thirtydayavgminutes": 66
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 398,
+            "minutesawake": 62,
+            "minutestofallasleep": 0,
+            "startdate": 1511394990000,
+            "timeinbed": 460,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511308800000,
+            "duration": 29340000,
+            "efficiency": 97,
+            "enddate": 1511336160000,
+            "entityid": "18_644MGZ_16393546443",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16393546443",
+            "levels": [
+                {
+                    "createddate": 1511306790000,
+                    "level": "wake",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1511307660000,
+                    "level": "light",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1511308200000,
+                    "level": "deep",
+                    "seconds": 2550
+                },
+                {
+                    "createddate": 1511310750000,
+                    "level": "light",
+                    "seconds": 4920
+                },
+                {
+                    "createddate": 1511315670000,
+                    "level": "deep",
+                    "seconds": 2400
+                },
+                {
+                    "createddate": 1511318070000,
+                    "level": "light",
+                    "seconds": 930
+                },
+                {
+                    "createddate": 1511319000000,
+                    "level": "rem",
+                    "seconds": 630
+                },
+                {
+                    "createddate": 1511319630000,
+                    "level": "light",
+                    "seconds": 1470
+                },
+                {
+                    "createddate": 1511321100000,
+                    "level": "wake",
+                    "seconds": 660
+                },
+                {
+                    "createddate": 1511321760000,
+                    "level": "light",
+                    "seconds": 1140
+                },
+                {
+                    "createddate": 1511322900000,
+                    "level": "rem",
+                    "seconds": 1560
+                },
+                {
+                    "createddate": 1511324460000,
+                    "level": "light",
+                    "seconds": 2760
+                },
+                {
+                    "createddate": 1511327220000,
+                    "level": "rem",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511327550000,
+                    "level": "light",
+                    "seconds": 1650
+                },
+                {
+                    "createddate": 1511329200000,
+                    "level": "wake",
+                    "seconds": 600
+                },
+                {
+                    "createddate": 1511329800000,
+                    "level": "light",
+                    "seconds": 2490
+                },
+                {
+                    "createddate": 1511332290000,
+                    "level": "deep",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1511332560000,
+                    "level": "light",
+                    "seconds": 3180
+                },
+                {
+                    "createddate": 1511335740000,
+                    "level": "wake",
+                    "seconds": 420
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 3,
+                    "minutes": 83,
+                    "thirtydayavgminutes": 69
+                },
+                "light": {
+                    "count": 36,
+                    "minutes": 294,
+                    "thirtydayavgminutes": 283
+                },
+                "rem": {
+                    "count": 4,
+                    "minutes": 41,
+                    "thirtydayavgminutes": 58
+                },
+                "wake": {
+                    "count": 36,
+                    "minutes": 71,
+                    "thirtydayavgminutes": 66
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 418,
+            "minutesawake": 71,
+            "minutestofallasleep": 0,
+            "startdate": 1511306790000,
+            "timeinbed": 489,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511222400000,
+            "duration": 30660000,
+            "efficiency": 95,
+            "enddate": 1511250390000,
+            "entityid": "18_644MGZ_16384526902",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16384526902",
+            "levels": [
+                {
+                    "createddate": 1511219700000,
+                    "level": "wake",
+                    "seconds": 1020
+                },
+                {
+                    "createddate": 1511220720000,
+                    "level": "light",
+                    "seconds": 150
+                },
+                {
+                    "createddate": 1511220870000,
+                    "level": "deep",
+                    "seconds": 420
+                },
+                {
+                    "createddate": 1511221290000,
+                    "level": "light",
+                    "seconds": 3150
+                },
+                {
+                    "createddate": 1511224440000,
+                    "level": "deep",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1511225250000,
+                    "level": "light",
+                    "seconds": 3930
+                },
+                {
+                    "createddate": 1511229180000,
+                    "level": "deep",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1511229720000,
+                    "level": "light",
+                    "seconds": 2610
+                },
+                {
+                    "createddate": 1511232330000,
+                    "level": "wake",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511232660000,
+                    "level": "light",
+                    "seconds": 1080
+                },
+                {
+                    "createddate": 1511233740000,
+                    "level": "deep",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511234070000,
+                    "level": "light",
+                    "seconds": 2550
+                },
+                {
+                    "createddate": 1511236620000,
+                    "level": "rem",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511237010000,
+                    "level": "light",
+                    "seconds": 8010
+                },
+                {
+                    "createddate": 1511245020000,
+                    "level": "rem",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1511245290000,
+                    "level": "light",
+                    "seconds": 1920
+                },
+                {
+                    "createddate": 1511247210000,
+                    "level": "wake",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1511247720000,
+                    "level": "light",
+                    "seconds": 840
+                },
+                {
+                    "createddate": 1511248560000,
+                    "level": "rem",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1511249370000,
+                    "level": "wake",
+                    "seconds": 1020
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 4,
+                    "minutes": 35,
+                    "thirtydayavgminutes": 72
+                },
+                "light": {
+                    "count": 32,
+                    "minutes": 380,
+                    "thirtydayavgminutes": 275
+                },
+                "rem": {
+                    "count": 3,
+                    "minutes": 24,
+                    "thirtydayavgminutes": 61
+                },
+                "wake": {
+                    "count": 29,
+                    "minutes": 72,
+                    "thirtydayavgminutes": 66
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 439,
+            "minutesawake": 72,
+            "minutestofallasleep": 0,
+            "startdate": 1511219700000,
+            "timeinbed": 511,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511136000000,
+            "duration": 26640000,
+            "efficiency": 97,
+            "enddate": 1511163450000,
+            "entityid": "18_644MGZ_16374718382",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16374718382",
+            "levels": [
+                {
+                    "createddate": 1511136810000,
+                    "level": "wake",
+                    "seconds": 690
+                },
+                {
+                    "createddate": 1511137500000,
+                    "level": "deep",
+                    "seconds": 1050
+                },
+                {
+                    "createddate": 1511138550000,
+                    "level": "light",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1511139060000,
+                    "level": "deep",
+                    "seconds": 1800
+                },
+                {
+                    "createddate": 1511140860000,
+                    "level": "light",
+                    "seconds": 1590
+                },
+                {
+                    "createddate": 1511142450000,
+                    "level": "deep",
+                    "seconds": 1200
+                },
+                {
+                    "createddate": 1511143650000,
+                    "level": "light",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1511143680000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1511143920000,
+                    "level": "light",
+                    "seconds": 2490
+                },
+                {
+                    "createddate": 1511146410000,
+                    "level": "deep",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1511146860000,
+                    "level": "light",
+                    "seconds": 1350
+                },
+                {
+                    "createddate": 1511148210000,
+                    "level": "rem",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511148540000,
+                    "level": "light",
+                    "seconds": 3000
+                },
+                {
+                    "createddate": 1511151540000,
+                    "level": "deep",
+                    "seconds": 1140
+                },
+                {
+                    "createddate": 1511152680000,
+                    "level": "light",
+                    "seconds": 930
+                },
+                {
+                    "createddate": 1511153610000,
+                    "level": "rem",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511153940000,
+                    "level": "light",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1511153970000,
+                    "level": "wake",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1511154420000,
+                    "level": "light",
+                    "seconds": 1230
+                },
+                {
+                    "createddate": 1511155650000,
+                    "level": "rem",
+                    "seconds": 1050
+                },
+                {
+                    "createddate": 1511156700000,
+                    "level": "wake",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1511157150000,
+                    "level": "light",
+                    "seconds": 4440
+                },
+                {
+                    "createddate": 1511161590000,
+                    "level": "rem",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511161920000,
+                    "level": "light",
+                    "seconds": 780
+                },
+                {
+                    "createddate": 1511162700000,
+                    "level": "rem",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1511162970000,
+                    "level": "wake",
+                    "seconds": 480
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 5,
+                    "minutes": 90,
+                    "thirtydayavgminutes": 70
+                },
+                "light": {
+                    "count": 24,
+                    "minutes": 263,
+                    "thirtydayavgminutes": 276
+                },
+                "rem": {
+                    "count": 5,
+                    "minutes": 39,
+                    "thirtydayavgminutes": 62
+                },
+                "wake": {
+                    "count": 21,
+                    "minutes": 52,
+                    "thirtydayavgminutes": 67
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 392,
+            "minutesawake": 52,
+            "minutestofallasleep": 0,
+            "startdate": 1511136810000,
+            "timeinbed": 444,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511049600000,
+            "duration": 29700000,
+            "efficiency": 91,
+            "enddate": 1511092680000,
+            "entityid": "18_644MGZ_16367828804",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16367828804",
+            "levels": [
+                {
+                    "createddate": 1511062980000,
+                    "level": "wake",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1511063010000,
+                    "level": "light",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1511063220000,
+                    "level": "deep",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511063550000,
+                    "level": "light",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1511064090000,
+                    "level": "deep",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1511064600000,
+                    "level": "light",
+                    "seconds": 690
+                },
+                {
+                    "createddate": 1511065290000,
+                    "level": "deep",
+                    "seconds": 1800
+                },
+                {
+                    "createddate": 1511067090000,
+                    "level": "light",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1511067960000,
+                    "level": "deep",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1511068320000,
+                    "level": "light",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511068710000,
+                    "level": "deep",
+                    "seconds": 2610
+                },
+                {
+                    "createddate": 1511071320000,
+                    "level": "light",
+                    "seconds": 2520
+                },
+                {
+                    "createddate": 1511073840000,
+                    "level": "wake",
+                    "seconds": 1380
+                },
+                {
+                    "createddate": 1511075220000,
+                    "level": "light",
+                    "seconds": 2070
+                },
+                {
+                    "createddate": 1511077290000,
+                    "level": "wake",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511077620000,
+                    "level": "light",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1511077860000,
+                    "level": "rem",
+                    "seconds": 2460
+                },
+                {
+                    "createddate": 1511080320000,
+                    "level": "light",
+                    "seconds": 4950
+                },
+                {
+                    "createddate": 1511085270000,
+                    "level": "rem",
+                    "seconds": 780
+                },
+                {
+                    "createddate": 1511086050000,
+                    "level": "light",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1511086590000,
+                    "level": "wake",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1511087100000,
+                    "level": "light",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1511087640000,
+                    "level": "rem",
+                    "seconds": 2400
+                },
+                {
+                    "createddate": 1511090040000,
+                    "level": "light",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1511090520000,
+                    "level": "rem",
+                    "seconds": 750
+                },
+                {
+                    "createddate": 1511091270000,
+                    "level": "wake",
+                    "seconds": 1410
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 5,
+                    "minutes": 93,
+                    "thirtydayavgminutes": 68
+                },
+                "light": {
+                    "count": 29,
+                    "minutes": 219,
+                    "thirtydayavgminutes": 281
+                },
+                "rem": {
+                    "count": 6,
+                    "minutes": 105,
+                    "thirtydayavgminutes": 59
+                },
+                "wake": {
+                    "count": 25,
+                    "minutes": 78,
+                    "thirtydayavgminutes": 66
+                }
+            },
+            "minutesafterwakeup": 2,
+            "minutesasleep": 417,
+            "minutesawake": 78,
+            "minutestofallasleep": 0,
+            "startdate": 1511062980000,
+            "timeinbed": 495,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510963200000,
+            "duration": 29640000,
+            "efficiency": 93,
+            "enddate": 1511000490000,
+            "entityid": "18_644MGZ_16359032323",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16359032323",
+            "levels": [
+                {
+                    "createddate": 1510970820000,
+                    "level": "wake",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1510970850000,
+                    "level": "light",
+                    "seconds": 2670
+                },
+                {
+                    "createddate": 1510973520000,
+                    "level": "deep",
+                    "seconds": 1800
+                },
+                {
+                    "createddate": 1510975320000,
+                    "level": "wake",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510975590000,
+                    "level": "light",
+                    "seconds": 1710
+                },
+                {
+                    "createddate": 1510977300000,
+                    "level": "deep",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1510977690000,
+                    "level": "light",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510978560000,
+                    "level": "rem",
+                    "seconds": 1590
+                },
+                {
+                    "createddate": 1510980150000,
+                    "level": "light",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1510980630000,
+                    "level": "rem",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510981500000,
+                    "level": "light",
+                    "seconds": 9360
+                },
+                {
+                    "createddate": 1510990860000,
+                    "level": "wake",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510991160000,
+                    "level": "light",
+                    "seconds": 2070
+                },
+                {
+                    "createddate": 1510993230000,
+                    "level": "deep",
+                    "seconds": 1530
+                },
+                {
+                    "createddate": 1510994760000,
+                    "level": "light",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1510995120000,
+                    "level": "rem",
+                    "seconds": 1230
+                },
+                {
+                    "createddate": 1510996350000,
+                    "level": "light",
+                    "seconds": 930
+                },
+                {
+                    "createddate": 1510997280000,
+                    "level": "wake",
+                    "seconds": 3210
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 3,
+                    "minutes": 62,
+                    "thirtydayavgminutes": 69
+                },
+                "light": {
+                    "count": 23,
+                    "minutes": 297,
+                    "thirtydayavgminutes": 280
+                },
+                "rem": {
+                    "count": 5,
+                    "minutes": 60,
+                    "thirtydayavgminutes": 58
+                },
+                "wake": {
+                    "count": 22,
+                    "minutes": 75,
+                    "thirtydayavgminutes": 65
+                }
+            },
+            "minutesafterwakeup": 35,
+            "minutesasleep": 419,
+            "minutesawake": 75,
+            "minutestofallasleep": 0,
+            "startdate": 1510970820000,
+            "timeinbed": 494,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510876800000,
+            "duration": 29100000,
+            "efficiency": 96,
+            "enddate": 1510903800000,
+            "entityid": "18_644MGZ_16349620800",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16349620800",
+            "levels": [
+                {
+                    "createddate": 1510874670000,
+                    "level": "wake",
+                    "seconds": 1410
+                },
+                {
+                    "createddate": 1510876080000,
+                    "level": "light",
+                    "seconds": 1050
+                },
+                {
+                    "createddate": 1510877130000,
+                    "level": "rem",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1510877460000,
+                    "level": "light",
+                    "seconds": 1080
+                },
+                {
+                    "createddate": 1510878540000,
+                    "level": "deep",
+                    "seconds": 930
+                },
+                {
+                    "createddate": 1510879470000,
+                    "level": "wake",
+                    "seconds": 570
+                },
+                {
+                    "createddate": 1510880040000,
+                    "level": "light",
+                    "seconds": 1320
+                },
+                {
+                    "createddate": 1510881360000,
+                    "level": "deep",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1510881840000,
+                    "level": "light",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1510882380000,
+                    "level": "deep",
+                    "seconds": 1500
+                },
+                {
+                    "createddate": 1510883880000,
+                    "level": "light",
+                    "seconds": 5070
+                },
+                {
+                    "createddate": 1510888950000,
+                    "level": "deep",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510889820000,
+                    "level": "light",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1510890150000,
+                    "level": "deep",
+                    "seconds": 1230
+                },
+                {
+                    "createddate": 1510891380000,
+                    "level": "light",
+                    "seconds": 1920
+                },
+                {
+                    "createddate": 1510893300000,
+                    "level": "rem",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1510893750000,
+                    "level": "light",
+                    "seconds": 3390
+                },
+                {
+                    "createddate": 1510897140000,
+                    "level": "rem",
+                    "seconds": 750
+                },
+                {
+                    "createddate": 1510897890000,
+                    "level": "light",
+                    "seconds": 630
+                },
+                {
+                    "createddate": 1510898520000,
+                    "level": "wake",
+                    "seconds": 1170
+                },
+                {
+                    "createddate": 1510899690000,
+                    "level": "light",
+                    "seconds": 2370
+                },
+                {
+                    "createddate": 1510902060000,
+                    "level": "rem",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510902330000,
+                    "level": "light",
+                    "seconds": 570
+                },
+                {
+                    "createddate": 1510902900000,
+                    "level": "rem",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510903200000,
+                    "level": "light",
+                    "seconds": 600
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 5,
+                    "minutes": 83,
+                    "thirtydayavgminutes": 67
+                },
+                "light": {
+                    "count": 36,
+                    "minutes": 291,
+                    "thirtydayavgminutes": 279
+                },
+                "rem": {
+                    "count": 5,
+                    "minutes": 34,
+                    "thirtydayavgminutes": 61
+                },
+                "wake": {
+                    "count": 30,
+                    "minutes": 77,
+                    "thirtydayavgminutes": 64
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 408,
+            "minutesawake": 77,
+            "minutestofallasleep": 0,
+            "startdate": 1510874670000,
+            "timeinbed": 485,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510790400000,
+            "duration": 33540000,
+            "efficiency": 92,
+            "enddate": 1510824270000,
+            "entityid": "18_644MGZ_16340962031",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16340962031",
+            "levels": [
+                {
+                    "createddate": 1510790700000,
+                    "level": "light",
+                    "seconds": 180
+                },
+                {
+                    "createddate": 1510790880000,
+                    "level": "wake",
+                    "seconds": 840
+                },
+                {
+                    "createddate": 1510791720000,
+                    "level": "light",
+                    "seconds": 1650
+                },
+                {
+                    "createddate": 1510793370000,
+                    "level": "rem",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1510793760000,
+                    "level": "light",
+                    "seconds": 2910
+                },
+                {
+                    "createddate": 1510796670000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1510796910000,
+                    "level": "light",
+                    "seconds": 2100
+                },
+                {
+                    "createddate": 1510799010000,
+                    "level": "deep",
+                    "seconds": 1470
+                },
+                {
+                    "createddate": 1510800480000,
+                    "level": "light",
+                    "seconds": 3660
+                },
+                {
+                    "createddate": 1510804140000,
+                    "level": "deep",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1510804680000,
+                    "level": "light",
+                    "seconds": 7020
+                },
+                {
+                    "createddate": 1510811700000,
+                    "level": "rem",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1510812150000,
+                    "level": "light",
+                    "seconds": 4890
+                },
+                {
+                    "createddate": 1510817040000,
+                    "level": "rem",
+                    "seconds": 2550
+                },
+                {
+                    "createddate": 1510819590000,
+                    "level": "light",
+                    "seconds": 1860
+                },
+                {
+                    "createddate": 1510821450000,
+                    "level": "rem",
+                    "seconds": 720
+                },
+                {
+                    "createddate": 1510822170000,
+                    "level": "light",
+                    "seconds": 600
+                },
+                {
+                    "createddate": 1510822770000,
+                    "level": "wake",
+                    "seconds": 1500
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 2,
+                    "minutes": 32,
+                    "thirtydayavgminutes": 72
+                },
+                "light": {
+                    "count": 31,
+                    "minutes": 395,
+                    "thirtydayavgminutes": 264
+                },
+                "rem": {
+                    "count": 4,
+                    "minutes": 68,
+                    "thirtydayavgminutes": 60
+                },
+                "wake": {
+                    "count": 27,
+                    "minutes": 64,
+                    "thirtydayavgminutes": 64
+                }
+            },
+            "minutesafterwakeup": 2,
+            "minutesasleep": 495,
+            "minutesawake": 64,
+            "minutestofallasleep": 0,
+            "startdate": 1510790700000,
+            "timeinbed": 559,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510704000000,
+            "duration": 29880000,
+            "efficiency": 94,
+            "enddate": 1510730940000,
+            "entityid": "18_644MGZ_16331027019",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16331027019",
+            "levels": [
+                {
+                    "createddate": 1510701060000,
+                    "level": "wake",
+                    "seconds": 900
+                },
+                {
+                    "createddate": 1510701960000,
+                    "level": "light",
+                    "seconds": 1290
+                },
+                {
+                    "createddate": 1510703250000,
+                    "level": "deep",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1510703790000,
+                    "level": "light",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1510704000000,
+                    "level": "wake",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1510704390000,
+                    "level": "light",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510704660000,
+                    "level": "deep",
+                    "seconds": 2550
+                },
+                {
+                    "createddate": 1510707210000,
+                    "level": "light",
+                    "seconds": 7020
+                },
+                {
+                    "createddate": 1510714230000,
+                    "level": "rem",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1510714680000,
+                    "level": "light",
+                    "seconds": 180
+                },
+                {
+                    "createddate": 1510714860000,
+                    "level": "wake",
+                    "seconds": 600
+                },
+                {
+                    "createddate": 1510715460000,
+                    "level": "light",
+                    "seconds": 90
+                },
+                {
+                    "createddate": 1510715550000,
+                    "level": "deep",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510715820000,
+                    "level": "light",
+                    "seconds": 7170
+                },
+                {
+                    "createddate": 1510722990000,
+                    "level": "rem",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510723290000,
+                    "level": "light",
+                    "seconds": 1470
+                },
+                {
+                    "createddate": 1510724760000,
+                    "level": "wake",
+                    "seconds": 420
+                },
+                {
+                    "createddate": 1510725180000,
+                    "level": "light",
+                    "seconds": 5760
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 3,
+                    "minutes": 55,
+                    "thirtydayavgminutes": 74
+                },
+                "light": {
+                    "count": 32,
+                    "minutes": 367,
+                    "thirtydayavgminutes": 249
+                },
+                "rem": {
+                    "count": 2,
+                    "minutes": 13,
+                    "thirtydayavgminutes": 67
+                },
+                "wake": {
+                    "count": 30,
+                    "minutes": 63,
+                    "thirtydayavgminutes": 64
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 435,
+            "minutesawake": 63,
+            "minutestofallasleep": 0,
+            "startdate": 1510701060000,
+            "timeinbed": 498,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510617600000,
+            "duration": 31560000,
+            "efficiency": 95,
+            "enddate": 1510646310000,
+            "entityid": "18_644MGZ_16322829843",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16322829843",
+            "levels": [
+                {
+                    "createddate": 1510614750000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1510614990000,
+                    "level": "light",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1510615800000,
+                    "level": "wake",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1510616340000,
+                    "level": "light",
+                    "seconds": 150
+                },
+                {
+                    "createddate": 1510616490000,
+                    "level": "deep",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1510616820000,
+                    "level": "light",
+                    "seconds": 600
+                },
+                {
+                    "createddate": 1510617420000,
+                    "level": "deep",
+                    "seconds": 1800
+                },
+                {
+                    "createddate": 1510619220000,
+                    "level": "light",
+                    "seconds": 2520
+                },
+                {
+                    "createddate": 1510621740000,
+                    "level": "deep",
+                    "seconds": 420
+                },
+                {
+                    "createddate": 1510622160000,
+                    "level": "wake",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1510622490000,
+                    "level": "light",
+                    "seconds": 630
+                },
+                {
+                    "createddate": 1510623120000,
+                    "level": "deep",
+                    "seconds": 3210
+                },
+                {
+                    "createddate": 1510626330000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1510626570000,
+                    "level": "light",
+                    "seconds": 5160
+                },
+                {
+                    "createddate": 1510631730000,
+                    "level": "rem",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1510632210000,
+                    "level": "light",
+                    "seconds": 1830
+                },
+                {
+                    "createddate": 1510634040000,
+                    "level": "rem",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510634310000,
+                    "level": "light",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1510634670000,
+                    "level": "wake",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1510635120000,
+                    "level": "light",
+                    "seconds": 1590
+                },
+                {
+                    "createddate": 1510636710000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1510636950000,
+                    "level": "light",
+                    "seconds": 180
+                },
+                {
+                    "createddate": 1510637130000,
+                    "level": "wake",
+                    "seconds": 570
+                },
+                {
+                    "createddate": 1510637700000,
+                    "level": "light",
+                    "seconds": 720
+                },
+                {
+                    "createddate": 1510638420000,
+                    "level": "rem",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1510638780000,
+                    "level": "wake",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1510638990000,
+                    "level": "light",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1510639350000,
+                    "level": "rem",
+                    "seconds": 1710
+                },
+                {
+                    "createddate": 1510641060000,
+                    "level": "light",
+                    "seconds": 1800
+                },
+                {
+                    "createddate": 1510642860000,
+                    "level": "rem",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1510643220000,
+                    "level": "light",
+                    "seconds": 630
+                },
+                {
+                    "createddate": 1510643850000,
+                    "level": "rem",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1510644300000,
+                    "level": "light",
+                    "seconds": 1500
+                },
+                {
+                    "createddate": 1510645800000,
+                    "level": "rem",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510646070000,
+                    "level": "wake",
+                    "seconds": 240
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 4,
+                    "minutes": 96,
+                    "thirtydayavgminutes": 70
+                },
+                "light": {
+                    "count": 34,
+                    "minutes": 300,
+                    "thirtydayavgminutes": 241
+                },
+                "rem": {
+                    "count": 8,
+                    "minutes": 64,
+                    "thirtydayavgminutes": 68
+                },
+                "wake": {
+                    "count": 32,
+                    "minutes": 66,
+                    "thirtydayavgminutes": 63
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 460,
+            "minutesawake": 66,
+            "minutestofallasleep": 0,
+            "startdate": 1510614750000,
+            "timeinbed": 526,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510531200000,
+            "duration": 30840000,
+            "efficiency": 95,
+            "enddate": 1510558170000,
+            "entityid": "18_644MGZ_16313879003",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16313879003",
+            "levels": [
+                {
+                    "createddate": 1510527300000,
+                    "level": "wake",
+                    "seconds": 720
+                },
+                {
+                    "createddate": 1510528020000,
+                    "level": "light",
+                    "seconds": 570
+                },
+                {
+                    "createddate": 1510528590000,
+                    "level": "wake",
+                    "seconds": 630
+                },
+                {
+                    "createddate": 1510529220000,
+                    "level": "light",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510529490000,
+                    "level": "deep",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1510529850000,
+                    "level": "light",
+                    "seconds": 750
+                },
+                {
+                    "createddate": 1510530600000,
+                    "level": "rem",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1510531080000,
+                    "level": "light",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1510531290000,
+                    "level": "deep",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1510532100000,
+                    "level": "light",
+                    "seconds": 3120
+                },
+                {
+                    "createddate": 1510535220000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1510535460000,
+                    "level": "light",
+                    "seconds": 990
+                },
+                {
+                    "createddate": 1510536450000,
+                    "level": "deep",
+                    "seconds": 1680
+                },
+                {
+                    "createddate": 1510538130000,
+                    "level": "wake",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1510538520000,
+                    "level": "light",
+                    "seconds": 3390
+                },
+                {
+                    "createddate": 1510541910000,
+                    "level": "rem",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510542180000,
+                    "level": "light",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1510542990000,
+                    "level": "rem",
+                    "seconds": 1020
+                },
+                {
+                    "createddate": 1510544010000,
+                    "level": "wake",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1510544400000,
+                    "level": "light",
+                    "seconds": 2610
+                },
+                {
+                    "createddate": 1510547010000,
+                    "level": "deep",
+                    "seconds": 1950
+                },
+                {
+                    "createddate": 1510548960000,
+                    "level": "light",
+                    "seconds": 930
+                },
+                {
+                    "createddate": 1510549890000,
+                    "level": "rem",
+                    "seconds": 1050
+                },
+                {
+                    "createddate": 1510550940000,
+                    "level": "light",
+                    "seconds": 6330
+                },
+                {
+                    "createddate": 1510557270000,
+                    "level": "wake",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1510557660000,
+                    "level": "light",
+                    "seconds": 510
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 4,
+                    "minutes": 78,
+                    "thirtydayavgminutes": 69
+                },
+                "light": {
+                    "count": 35,
+                    "minutes": 315,
+                    "thirtydayavgminutes": 226
+                },
+                "rem": {
+                    "count": 4,
+                    "minutes": 46,
+                    "thirtydayavgminutes": 72
+                },
+                "wake": {
+                    "count": 34,
+                    "minutes": 75,
+                    "thirtydayavgminutes": 61
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 439,
+            "minutesawake": 75,
+            "minutestofallasleep": 0,
+            "startdate": 1510527300000,
+            "timeinbed": 514,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510444800000,
+            "duration": 25200000,
+            "efficiency": 94,
+            "enddate": 1510485120000,
+            "entityid": "18_644MGZ_16306195551",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16306195551",
+            "levels": [
+                {
+                    "createddate": 1510459890000,
+                    "level": "wake",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1510459920000,
+                    "level": "light",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510460790000,
+                    "level": "deep",
+                    "seconds": 3450
+                },
+                {
+                    "createddate": 1510464240000,
+                    "level": "light",
+                    "seconds": 1110
+                },
+                {
+                    "createddate": 1510465350000,
+                    "level": "wake",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1510465560000,
+                    "level": "light",
+                    "seconds": 1890
+                },
+                {
+                    "createddate": 1510467450000,
+                    "level": "deep",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510468320000,
+                    "level": "light",
+                    "seconds": 1590
+                },
+                {
+                    "createddate": 1510469910000,
+                    "level": "wake",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1510470240000,
+                    "level": "light",
+                    "seconds": 2580
+                },
+                {
+                    "createddate": 1510472820000,
+                    "level": "rem",
+                    "seconds": 630
+                },
+                {
+                    "createddate": 1510473450000,
+                    "level": "light",
+                    "seconds": 720
+                },
+                {
+                    "createddate": 1510474170000,
+                    "level": "rem",
+                    "seconds": 660
+                },
+                {
+                    "createddate": 1510474830000,
+                    "level": "light",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1510475160000,
+                    "level": "wake",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510475460000,
+                    "level": "light",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1510475940000,
+                    "level": "rem",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1510476390000,
+                    "level": "light",
+                    "seconds": 2040
+                },
+                {
+                    "createddate": 1510478430000,
+                    "level": "wake",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510479300000,
+                    "level": "light",
+                    "seconds": 1830
+                },
+                {
+                    "createddate": 1510481130000,
+                    "level": "wake",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1510481340000,
+                    "level": "light",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510481610000,
+                    "level": "rem",
+                    "seconds": 1140
+                },
+                {
+                    "createddate": 1510482750000,
+                    "level": "light",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1510482780000,
+                    "level": "wake",
+                    "seconds": 660
+                },
+                {
+                    "createddate": 1510483440000,
+                    "level": "light",
+                    "seconds": 120
+                },
+                {
+                    "createddate": 1510483560000,
+                    "level": "wake",
+                    "seconds": 1560
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 2,
+                    "minutes": 72,
+                    "thirtydayavgminutes": 68
+                },
+                "light": {
+                    "count": 23,
+                    "minutes": 218,
+                    "thirtydayavgminutes": 228
+                },
+                "rem": {
+                    "count": 4,
+                    "minutes": 48,
+                    "thirtydayavgminutes": 78
+                },
+                "wake": {
+                    "count": 19,
+                    "minutes": 82,
+                    "thirtydayavgminutes": 56
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 338,
+            "minutesawake": 82,
+            "minutestofallasleep": 0,
+            "startdate": 1510459890000,
+            "timeinbed": 420,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510358400000,
+            "duration": 31380000,
+            "efficiency": 91,
+            "enddate": 1510395090000,
+            "entityid": "18_644MGZ_16297722958",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16297722958",
+            "levels": [
+                {
+                    "createddate": 1510363710000,
+                    "level": "wake",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1510363740000,
+                    "level": "light",
+                    "seconds": 1980
+                },
+                {
+                    "createddate": 1510365720000,
+                    "level": "deep",
+                    "seconds": 2310
+                },
+                {
+                    "createddate": 1510368030000,
+                    "level": "light",
+                    "seconds": 2220
+                },
+                {
+                    "createddate": 1510370250000,
+                    "level": "deep",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510370550000,
+                    "level": "light",
+                    "seconds": 900
+                },
+                {
+                    "createddate": 1510371450000,
+                    "level": "deep",
+                    "seconds": 2070
+                },
+                {
+                    "createddate": 1510373520000,
+                    "level": "light",
+                    "seconds": 2910
+                },
+                {
+                    "createddate": 1510376430000,
+                    "level": "deep",
+                    "seconds": 1920
+                },
+                {
+                    "createddate": 1510378350000,
+                    "level": "light",
+                    "seconds": 720
+                },
+                {
+                    "createddate": 1510379070000,
+                    "level": "rem",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510379340000,
+                    "level": "light",
+                    "seconds": 780
+                },
+                {
+                    "createddate": 1510380120000,
+                    "level": "rem",
+                    "seconds": 750
+                },
+                {
+                    "createddate": 1510380870000,
+                    "level": "light",
+                    "seconds": 420
+                },
+                {
+                    "createddate": 1510381290000,
+                    "level": "rem",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510381560000,
+                    "level": "light",
+                    "seconds": 570
+                },
+                {
+                    "createddate": 1510382130000,
+                    "level": "rem",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1510382520000,
+                    "level": "light",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1510382970000,
+                    "level": "rem",
+                    "seconds": 900
+                },
+                {
+                    "createddate": 1510383870000,
+                    "level": "light",
+                    "seconds": 990
+                },
+                {
+                    "createddate": 1510384860000,
+                    "level": "rem",
+                    "seconds": 930
+                },
+                {
+                    "createddate": 1510385790000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1510386030000,
+                    "level": "light",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510386900000,
+                    "level": "rem",
+                    "seconds": 1620
+                },
+                {
+                    "createddate": 1510388520000,
+                    "level": "light",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1510388730000,
+                    "level": "wake",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1510389090000,
+                    "level": "light",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510389960000,
+                    "level": "rem",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510390260000,
+                    "level": "light",
+                    "seconds": 1560
+                },
+                {
+                    "createddate": 1510391820000,
+                    "level": "wake",
+                    "seconds": 900
+                },
+                {
+                    "createddate": 1510392720000,
+                    "level": "light",
+                    "seconds": 150
+                },
+                {
+                    "createddate": 1510392870000,
+                    "level": "wake",
+                    "seconds": 2220
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 4,
+                    "minutes": 107,
+                    "thirtydayavgminutes": 55
+                },
+                "light": {
+                    "count": 26,
+                    "minutes": 249,
+                    "thirtydayavgminutes": 221
+                },
+                "rem": {
+                    "count": 8,
+                    "minutes": 91,
+                    "thirtydayavgminutes": 73
+                },
+                "wake": {
+                    "count": 19,
+                    "minutes": 76,
+                    "thirtydayavgminutes": 49
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 447,
+            "minutesawake": 76,
+            "minutestofallasleep": 0,
+            "startdate": 1510363710000,
+            "timeinbed": 523,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510272000000,
+            "duration": 29580000,
+            "efficiency": 94,
+            "enddate": 1510296270000,
+            "entityid": "18_644MGZ_16288884373",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16288884373",
+            "levels": [
+                {
+                    "createddate": 1510266690000,
+                    "level": "wake",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1510267050000,
+                    "level": "light",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1510267860000,
+                    "level": "deep",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1510268340000,
+                    "level": "light",
+                    "seconds": 180
+                },
+                {
+                    "createddate": 1510268520000,
+                    "level": "deep",
+                    "seconds": 930
+                },
+                {
+                    "createddate": 1510269450000,
+                    "level": "light",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1510269780000,
+                    "level": "deep",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510270080000,
+                    "level": "light",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1510270560000,
+                    "level": "deep",
+                    "seconds": 1290
+                },
+                {
+                    "createddate": 1510271850000,
+                    "level": "light",
+                    "seconds": 1620
+                },
+                {
+                    "createddate": 1510273470000,
+                    "level": "wake",
+                    "seconds": 780
+                },
+                {
+                    "createddate": 1510274250000,
+                    "level": "light",
+                    "seconds": 90
+                },
+                {
+                    "createddate": 1510274340000,
+                    "level": "rem",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510274640000,
+                    "level": "light",
+                    "seconds": 1440
+                },
+                {
+                    "createddate": 1510276080000,
+                    "level": "deep",
+                    "seconds": 1830
+                },
+                {
+                    "createddate": 1510277910000,
+                    "level": "light",
+                    "seconds": 1200
+                },
+                {
+                    "createddate": 1510279110000,
+                    "level": "rem",
+                    "seconds": 1770
+                },
+                {
+                    "createddate": 1510280880000,
+                    "level": "wake",
+                    "seconds": 540
+                },
+                {
+                    "createddate": 1510281420000,
+                    "level": "light",
+                    "seconds": 2970
+                },
+                {
+                    "createddate": 1510284390000,
+                    "level": "rem",
+                    "seconds": 1590
+                },
+                {
+                    "createddate": 1510285980000,
+                    "level": "light",
+                    "seconds": 1350
+                },
+                {
+                    "createddate": 1510287330000,
+                    "level": "deep",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1510287840000,
+                    "level": "light",
+                    "seconds": 1560
+                },
+                {
+                    "createddate": 1510289400000,
+                    "level": "rem",
+                    "seconds": 1320
+                },
+                {
+                    "createddate": 1510290720000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1510290960000,
+                    "level": "light",
+                    "seconds": 930
+                },
+                {
+                    "createddate": 1510291890000,
+                    "level": "rem",
+                    "seconds": 990
+                },
+                {
+                    "createddate": 1510292880000,
+                    "level": "light",
+                    "seconds": 1200
+                },
+                {
+                    "createddate": 1510294080000,
+                    "level": "rem",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1510294410000,
+                    "level": "light",
+                    "seconds": 1050
+                },
+                {
+                    "createddate": 1510295460000,
+                    "level": "wake",
+                    "seconds": 810
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 6,
+                    "minutes": 86,
+                    "thirtydayavgminutes": 40
+                },
+                "light": {
+                    "count": 23,
+                    "minutes": 238,
+                    "thirtydayavgminutes": 213
+                },
+                "rem": {
+                    "count": 11,
+                    "minutes": 102,
+                    "thirtydayavgminutes": 59
+                },
+                "wake": {
+                    "count": 27,
+                    "minutes": 67,
+                    "thirtydayavgminutes": 40
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 426,
+            "minutesawake": 67,
+            "minutestofallasleep": 0,
+            "startdate": 1510266690000,
+            "timeinbed": 493,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510185600000,
+            "duration": 13560000,
+            "efficiency": 99,
+            "enddate": 1510206900000,
+            "entityid": "18_644MGZ_16280600294",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16280600294",
+            "levels": [
+                {
+                    "createddate": 1510193310000,
+                    "level": "wake",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1510193340000,
+                    "level": "light",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510194210000,
+                    "level": "deep",
+                    "seconds": 870
+                },
+                {
+                    "createddate": 1510195080000,
+                    "level": "light",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510195350000,
+                    "level": "rem",
+                    "seconds": 1650
+                },
+                {
+                    "createddate": 1510197000000,
+                    "level": "light",
+                    "seconds": 1530
+                },
+                {
+                    "createddate": 1510198530000,
+                    "level": "deep",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510198800000,
+                    "level": "light",
+                    "seconds": 3120
+                },
+                {
+                    "createddate": 1510201920000,
+                    "level": "deep",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1510202280000,
+                    "level": "light",
+                    "seconds": 90
+                },
+                {
+                    "createddate": 1510202370000,
+                    "level": "rem",
+                    "seconds": 1290
+                },
+                {
+                    "createddate": 1510203660000,
+                    "level": "light",
+                    "seconds": 3000
+                },
+                {
+                    "createddate": 1510206660000,
+                    "level": "wake",
+                    "seconds": 240
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 3,
+                    "minutes": 24,
+                    "thirtydayavgminutes": 55
+                },
+                "light": {
+                    "count": 11,
+                    "minutes": 141,
+                    "thirtydayavgminutes": 285
+                },
+                "rem": {
+                    "count": 6,
+                    "minutes": 45,
+                    "thirtydayavgminutes": 73
+                },
+                "wake": {
+                    "count": 13,
+                    "minutes": 16,
+                    "thirtydayavgminutes": 63
+                }
+            },
+            "minutesafterwakeup": 3,
+            "minutesasleep": 210,
+            "minutesawake": 16,
+            "minutestofallasleep": 0,
+            "startdate": 1510193310000,
+            "timeinbed": 226,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1510099200000,
+            "duration": 28560000,
+            "efficiency": 96,
+            "enddate": 1510124490000,
+            "entityid": "18_644MGZ_16270925744",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16270925744",
+            "levels": [
+                {
+                    "createddate": 1510095900000,
+                    "level": "wake",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510096170000,
+                    "level": "light",
+                    "seconds": 1500
+                },
+                {
+                    "createddate": 1510097670000,
+                    "level": "wake",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1510098180000,
+                    "level": "light",
+                    "seconds": 1860
+                },
+                {
+                    "createddate": 1510100040000,
+                    "level": "deep",
+                    "seconds": 2490
+                },
+                {
+                    "createddate": 1510102530000,
+                    "level": "rem",
+                    "seconds": 1380
+                },
+                {
+                    "createddate": 1510103910000,
+                    "level": "light",
+                    "seconds": 1080
+                },
+                {
+                    "createddate": 1510104990000,
+                    "level": "deep",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510105290000,
+                    "level": "light",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1510106100000,
+                    "level": "deep",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1510106370000,
+                    "level": "light",
+                    "seconds": 2130
+                },
+                {
+                    "createddate": 1510108500000,
+                    "level": "rem",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1510108800000,
+                    "level": "light",
+                    "seconds": 4410
+                },
+                {
+                    "createddate": 1510113210000,
+                    "level": "deep",
+                    "seconds": 420
+                },
+                {
+                    "createddate": 1510113630000,
+                    "level": "light",
+                    "seconds": 1680
+                },
+                {
+                    "createddate": 1510115310000,
+                    "level": "wake",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1510115760000,
+                    "level": "light",
+                    "seconds": 690
+                },
+                {
+                    "createddate": 1510116450000,
+                    "level": "wake",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1510116780000,
+                    "level": "light",
+                    "seconds": 2970
+                },
+                {
+                    "createddate": 1510119750000,
+                    "level": "rem",
+                    "seconds": 1410
+                },
+                {
+                    "createddate": 1510121160000,
+                    "level": "light",
+                    "seconds": 990
+                },
+                {
+                    "createddate": 1510122150000,
+                    "level": "rem",
+                    "seconds": 1320
+                },
+                {
+                    "createddate": 1510123470000,
+                    "level": "light",
+                    "seconds": 600
+                },
+                {
+                    "createddate": 1510124070000,
+                    "level": "wake",
+                    "seconds": 420
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 4,
+                    "minutes": 55,
+                    "thirtydayavgminutes": 0
+                },
+                "light": {
+                    "count": 34,
+                    "minutes": 285,
+                    "thirtydayavgminutes": 0
+                },
+                "rem": {
+                    "count": 5,
+                    "minutes": 73,
+                    "thirtydayavgminutes": 0
+                },
+                "wake": {
+                    "count": 32,
+                    "minutes": 63,
+                    "thirtydayavgminutes": 0
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 413,
+            "minutesawake": 63,
+            "minutestofallasleep": 0,
+            "startdate": 1510095900000,
+            "timeinbed": 476,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1512000000000,
+            "duration": 23340000,
+            "efficiency": 95,
+            "enddate": 1512027750000,
+            "entityid": "18_644MGZ_16462249480",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16462249480",
+            "levels": [
+                {
+                    "createddate": 1512004410000,
+                    "level": "wake",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1512004440000,
+                    "level": "light",
+                    "seconds": 990
+                },
+                {
+                    "createddate": 1512005430000,
+                    "level": "deep",
+                    "seconds": 1980
+                },
+                {
+                    "createddate": 1512007410000,
+                    "level": "light",
+                    "seconds": 1500
+                },
+                {
+                    "createddate": 1512008910000,
+                    "level": "deep",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1512009180000,
+                    "level": "light",
+                    "seconds": 1110
+                },
+                {
+                    "createddate": 1512010290000,
+                    "level": "wake",
+                    "seconds": 990
+                },
+                {
+                    "createddate": 1512011280000,
+                    "level": "light",
+                    "seconds": 780
+                },
+                {
+                    "createddate": 1512012060000,
+                    "level": "deep",
+                    "seconds": 1740
+                },
+                {
+                    "createddate": 1512013800000,
+                    "level": "wake",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1512014070000,
+                    "level": "light",
+                    "seconds": 1830
+                },
+                {
+                    "createddate": 1512015900000,
+                    "level": "wake",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1512016200000,
+                    "level": "light",
+                    "seconds": 570
+                },
+                {
+                    "createddate": 1512016770000,
+                    "level": "wake",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1512017280000,
+                    "level": "light",
+                    "seconds": 2280
+                },
+                {
+                    "createddate": 1512019560000,
+                    "level": "rem",
+                    "seconds": 1590
+                },
+                {
+                    "createddate": 1512021150000,
+                    "level": "light",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1512021510000,
+                    "level": "rem",
+                    "seconds": 1620
+                },
+                {
+                    "createddate": 1512023130000,
+                    "level": "light",
+                    "seconds": 2250
+                },
+                {
+                    "createddate": 1512025380000,
+                    "level": "wake",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1512025680000,
+                    "level": "light",
+                    "seconds": 2070
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 3,
+                    "minutes": 66,
+                    "thirtydayavgminutes": 81
+                },
+                "light": {
+                    "count": 20,
+                    "minutes": 215,
+                    "thirtydayavgminutes": 275
+                },
+                "rem": {
+                    "count": 4,
+                    "minutes": 53,
+                    "thirtydayavgminutes": 52
+                },
+                "wake": {
+                    "count": 20,
+                    "minutes": 55,
+                    "thirtydayavgminutes": 56
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 334,
+            "minutesawake": 55,
+            "minutestofallasleep": 0,
+            "startdate": 1512004410000,
+            "timeinbed": 389,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511913600000,
+            "duration": 28320000,
+            "efficiency": 96,
+            "enddate": 1511940450000,
+            "entityid": "18_644MGZ_16453472253",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16453472253",
+            "levels": [
+                {
+                    "createddate": 1511912130000,
+                    "level": "wake",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511912520000,
+                    "level": "deep",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1511913000000,
+                    "level": "light",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1511913810000,
+                    "level": "deep",
+                    "seconds": 1320
+                },
+                {
+                    "createddate": 1511915130000,
+                    "level": "light",
+                    "seconds": 780
+                },
+                {
+                    "createddate": 1511915910000,
+                    "level": "deep",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1511916720000,
+                    "level": "light",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1511917080000,
+                    "level": "wake",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1511917320000,
+                    "level": "light",
+                    "seconds": 1110
+                },
+                {
+                    "createddate": 1511918430000,
+                    "level": "deep",
+                    "seconds": 750
+                },
+                {
+                    "createddate": 1511919180000,
+                    "level": "light",
+                    "seconds": 4530
+                },
+                {
+                    "createddate": 1511923710000,
+                    "level": "deep",
+                    "seconds": 810
+                },
+                {
+                    "createddate": 1511924520000,
+                    "level": "light",
+                    "seconds": 6960
+                },
+                {
+                    "createddate": 1511931480000,
+                    "level": "rem",
+                    "seconds": 1350
+                },
+                {
+                    "createddate": 1511932830000,
+                    "level": "light",
+                    "seconds": 1350
+                },
+                {
+                    "createddate": 1511934180000,
+                    "level": "wake",
+                    "seconds": 420
+                },
+                {
+                    "createddate": 1511934600000,
+                    "level": "light",
+                    "seconds": 1260
+                },
+                {
+                    "createddate": 1511935860000,
+                    "level": "deep",
+                    "seconds": 1260
+                },
+                {
+                    "createddate": 1511937120000,
+                    "level": "light",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511937450000,
+                    "level": "rem",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1511937810000,
+                    "level": "light",
+                    "seconds": 660
+                },
+                {
+                    "createddate": 1511938470000,
+                    "level": "rem",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1511938830000,
+                    "level": "light",
+                    "seconds": 510
+                },
+                {
+                    "createddate": 1511939340000,
+                    "level": "wake",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511939640000,
+                    "level": "light",
+                    "seconds": 240
+                },
+                {
+                    "createddate": 1511939880000,
+                    "level": "rem",
+                    "seconds": 480
+                },
+                {
+                    "createddate": 1511940360000,
+                    "level": "light",
+                    "seconds": 90
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 6,
+                    "minutes": 89,
+                    "thirtydayavgminutes": 72
+                },
+                "light": {
+                    "count": 31,
+                    "minutes": 294,
+                    "thirtydayavgminutes": 255
+                },
+                "rem": {
+                    "count": 4,
+                    "minutes": 40,
+                    "thirtydayavgminutes": 63
+                },
+                "wake": {
+                    "count": 28,
+                    "minutes": 49,
+                    "thirtydayavgminutes": 62
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 423,
+            "minutesawake": 49,
+            "minutestofallasleep": 0,
+            "startdate": 1511912130000,
+            "timeinbed": 472,
+            "type": "stages"
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "createddate": 1511827200000,
+            "duration": 27120000,
+            "efficiency": 95,
+            "enddate": 1511854170000,
+            "entityid": "18_644MGZ_16443358988",
+            "infocode": 0,
+            "ismainsleep": true,
+            "id": "16443358988",
+            "levels": [
+                {
+                    "createddate": 1511827050000,
+                    "level": "wake",
+                    "seconds": 750
+                },
+                {
+                    "createddate": 1511827800000,
+                    "level": "light",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1511828160000,
+                    "level": "wake",
+                    "seconds": 1080
+                },
+                {
+                    "createddate": 1511829240000,
+                    "level": "light",
+                    "seconds": 2130
+                },
+                {
+                    "createddate": 1511831370000,
+                    "level": "wake",
+                    "seconds": 210
+                },
+                {
+                    "createddate": 1511831580000,
+                    "level": "light",
+                    "seconds": 1920
+                },
+                {
+                    "createddate": 1511833500000,
+                    "level": "rem",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511833890000,
+                    "level": "light",
+                    "seconds": 360
+                },
+                {
+                    "createddate": 1511834250000,
+                    "level": "rem",
+                    "seconds": 300
+                },
+                {
+                    "createddate": 1511834550000,
+                    "level": "light",
+                    "seconds": 60
+                },
+                {
+                    "createddate": 1511834610000,
+                    "level": "deep",
+                    "seconds": 1080
+                },
+                {
+                    "createddate": 1511835690000,
+                    "level": "light",
+                    "seconds": 780
+                },
+                {
+                    "createddate": 1511836470000,
+                    "level": "deep",
+                    "seconds": 1290
+                },
+                {
+                    "createddate": 1511837760000,
+                    "level": "light",
+                    "seconds": 1410
+                },
+                {
+                    "createddate": 1511839170000,
+                    "level": "deep",
+                    "seconds": 900
+                },
+                {
+                    "createddate": 1511840070000,
+                    "level": "light",
+                    "seconds": 4500
+                },
+                {
+                    "createddate": 1511844570000,
+                    "level": "deep",
+                    "seconds": 1140
+                },
+                {
+                    "createddate": 1511845710000,
+                    "level": "light",
+                    "seconds": 30
+                },
+                {
+                    "createddate": 1511845740000,
+                    "level": "wake",
+                    "seconds": 270
+                },
+                {
+                    "createddate": 1511846010000,
+                    "level": "light",
+                    "seconds": 1200
+                },
+                {
+                    "createddate": 1511847210000,
+                    "level": "rem",
+                    "seconds": 330
+                },
+                {
+                    "createddate": 1511847540000,
+                    "level": "light",
+                    "seconds": 3300
+                },
+                {
+                    "createddate": 1511850840000,
+                    "level": "rem",
+                    "seconds": 450
+                },
+                {
+                    "createddate": 1511851290000,
+                    "level": "light",
+                    "seconds": 390
+                },
+                {
+                    "createddate": 1511851680000,
+                    "level": "rem",
+                    "seconds": 2280
+                },
+                {
+                    "createddate": 1511853960000,
+                    "level": "wake",
+                    "seconds": 210
+                }
+            ],
+            "summary": {
+                "deep": {
+                    "count": 4,
+                    "minutes": 72,
+                    "thirtydayavgminutes": 0
+                },
+                "light": {
+                    "count": 34,
+                    "minutes": 255,
+                    "thirtydayavgminutes": 0
+                },
+                "rem": {
+                    "count": 5,
+                    "minutes": 63,
+                    "thirtydayavgminutes": 0
+                },
+                "wake": {
+                    "count": 29,
+                    "minutes": 62,
+                    "thirtydayavgminutes": 0
+                }
+            },
+            "minutesafterwakeup": 0,
+            "minutesasleep": 390,
+            "minutesawake": 62,
+            "minutestofallasleep": 0,
+            "startdate": 1511827050000,
+            "timeinbed": 452,
+            "type": "stages"
+        }
+    ],
+    "fileDescriptor": {
+        "objectCount": 22,
+        "objectType": "sleep",
+        "serviceGroup": "health fitness",
+        "serviceName": "fitbit"
+    },
+    "fileName": "18_4_18_3_303_D201711_1.json",
+    "fileList": [
+        "18_1_4_2_7_D201709_1.json",
+        "18_2_16_10_129_D201804_1.json",
+        "18_2_16_10_130_D201710_1.json",
+        "18_2_16_10_130_D201801_1.json",
+        "18_2_16_10_132_D201709_1.json",
+        "18_2_16_10_136_D201802_1.json",
+        "18_2_16_10_136_D201805_1.json",
+        "18_2_16_10_136_D201806_1.json",
+        "18_1_4_2_2_D201709_1.json",
+        "18_1_4_2_2_D201710_1.json",
+        "18_2_16_10_129_D201707_1.json",
+        "18_2_16_10_130_D201711_1.json",
+        "18_2_16_10_130_D201804_1.json",
+        "18_2_16_10_132_D201801_1.json",
+        "18_2_16_10_136_D201710_1.json",
+        "18_1_4_2_1_D201709_1.json",
+        "18_2_16_10_132_D201712_1.json",
+        "18_1_4_2_1_D201710_1.json",
+        "18_5_19_6_406_D201805_1.json",
+        "18_2_16_10_132_D201802_1.json",
+        "18_1_4_2_7_D201708_1.json",
+        "18_5_19_6_405_D201803_1.json",
+        "18_5_19_6_405_D201805_1.json",
+        "18_2_16_10_130_D201806_1.json",
+        "18_2_16_10_136_D201709_1.json",
+        "18_1_4_2_2_D201804_1.json",
+        "18_2_16_10_130_D201803_1.json",
+        "18_1_9_1_2_D201804_1.json",
+        "18_4_18_3_301_D201804_1.json",
+        "18_1_4_2_1_D201804_1.json",
+        "18_1_4_2_2_D201801_1.json",
+        "18_1_9_1_1_D201804_1.json",
+        "18_1_9_1_2_D201709_1.json",
+        "18_1_4_2_1_D201801_1.json",
+        "18_4_18_3_303_D201804_1.json",
+        "18_4_18_3_300_D201804_1.json",
+        "18_1_9_1_2_D201707_1.json",
+        "18_4_18_3_300_D201711_1.json",
+        "18_4_18_3_301_D201711_1.json",
+        "18_1_9_1_2_D201711_1.json",
+        "18_4_18_3_301_D201802_1.json",
+        "18_4_18_3_301_D201712_1.json",
+        "18_4_18_3_301_D201801_1.json",
+        "18_4_18_3_301_D201803_1.json",
+        "18_4_18_3_300_D201712_1.json",
+        "18_1_9_1_1_D201709_1.json",
+        "18_4_18_3_300_D201802_1.json",
+        "18_4_18_3_303_D201711_1.json",
+        "18_1_9_1_1_D201707_1.json",
+        "18_4_18_3_300_D201803_1.json",
+        "18_4_18_3_303_D201802_1.json",
+        "18_5_19_6_406_D201712_1.json",
+        "18_4_18_3_300_D201801_1.json",
+        "18_1_9_1_1_D201711_1.json",
+        "18_4_18_3_303_D201801_1.json",
+        "18_4_18_3_303_D201803_1.json",
+        "18_5_19_6_406_D201806_1.json",
+        "18_4_18_3_303_D201712_1.json",
+        "18_1_3_7_1_D201806_1.json",
+        "18_1_3_7_2_D201806_1.json",
+        "18_5_19_6_406_D201801_1.json",
+        "18_1_3_7_1_D201804_1.json",
+        "18_1_3_7_2_D201804_1.json",
+        "18_1_3_7_2_D201801_1.json",
+        "18_1_3_7_2_D201707_1.json",
+        "18_1_3_7_1_D201801_1.json",
+        "18_1_3_7_2_D201712_1.json",
+        "18_1_3_7_1_D201802_1.json",
+        "18_1_3_7_2_D201706_1.json",
+        "18_1_3_7_1_D201712_1.json",
+        "18_1_3_7_1_D201803_1.json",
+        "18_1_3_7_1_D201707_1.json",
+        "18_1_3_7_2_D201709_1.json",
+        "18_1_3_7_2_D201711_1.json",
+        "18_1_3_7_1_D201711_1.json",
+        "18_1_3_7_1_D201709_1.json",
+        "18_1_3_7_1_D201706_1.json",
+        "18_1_3_7_1_D201708_1.json",
+        "18_1_3_7_2_D201710_1.json",
+        "18_1_3_7_1_D201710_1.json",
+        "18_1_3_7_2_D201802_1.json",
+        "18_1_3_7_2_D201803_1.json",
+        "18_1_3_7_2_D201708_1.json",
+        "18_5_19_6_404_D201712_1.json",
+        "18_5_19_6_405_D201712_1.json"
+    ]
+}
