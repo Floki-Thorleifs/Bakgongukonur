@@ -1,0 +1,25 @@
+{
+  "name": "bakgongukonur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "eslint": "eslint *.js **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floki-Thorleifs/Bakgongukonur.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Floki-Thorleifs/Bakgongukonur/issues"
+  },
+  "homepage": "https://github.com/Floki-Thorleifs/Bakgongukonur#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "pg": "^7.9.0"
+  }
+}
