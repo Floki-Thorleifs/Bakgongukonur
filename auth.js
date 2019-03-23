@@ -113,7 +113,6 @@ function requireAdminAuth(req, res, next) {
 async function loginRoute(req, res) {
   const { username, password } = req.body;
   const hashedPassword = await bcrypt.hash(password, 11);
-  console.log(hashedPassword);
 
   const user = await users.findByUsername(username);
 
