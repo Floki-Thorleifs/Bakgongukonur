@@ -20,7 +20,7 @@ async function getData(userID) {
     let dateArr = [];
     
     for (let i = 0; i < bloodTests.length; i++) {
-        const timestamp = bloodTests[0].created;
+        const timestamp = bloodTests[i].created;
         const date = timestamp.getDate();
         const month = timestamp.getMonth();
         const year = timestamp.getFullYear();
@@ -32,6 +32,7 @@ async function getData(userID) {
                 j = dateArr.length;
             }
         }
+
         if (index === -1) {
             dateArr.push({
                 date: ddmmyyyy,
