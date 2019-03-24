@@ -8,255 +8,36 @@
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 2,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 17,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 121,
-            "calories": 226,
-            "createddate": 1512546652000,
-            "distance": 0,
-            "durations": {
-                "active": 1126000,
-                "original": 1126000,
-                "total": 1126000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11239784480",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 0,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 10,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 4,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11239784480",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1512546652000,
-            "speed": 0,
-            "steps": 1775,
-            "updateddate": 1512551485000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 1,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 9,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 11,
-                    "name": "fairly"
-                },
-                {
                     "minutes": 3,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Workout",
-            "activitytypeid": "3000",
-            "averageheartrate": 102,
-            "calories": 159,
-            "createddate": 1512495180000,
-            "distance": 0,
-            "durations": {
-                "active": 1452000,
-                "original": 1453000,
-                "total": 1453000
-            },
-            "elevationgain": 9.144,
-            "entityid": "18_644MGZ_11232044730",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 3,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 22,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11232044730",
-            "logtype": "tracker",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1512495180000,
-            "source": {
-                "id": "72319970",
-                "name": "Blaze",
-                "type": "tracker",
-                "url": "https://www.fitbit.com/"
-            },
-            "speed": 0,
-            "steps": 519,
-            "updateddate": 1512543428000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
                     "name": "lightly"
-                },
-                {
-                    "minutes": 4,
-                    "name": "fairly"
                 },
                 {
                     "minutes": 19,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 114,
-            "calories": 247,
-            "createddate": 1512489777000,
-            "distance": 0,
-            "durations": {
-                "active": 1382000,
-                "original": 1382000,
-                "total": 1382000
-            },
-            "elevationgain": 12.192,
-            "entityid": "18_644MGZ_11227261383",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 0,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 17,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 2,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 2,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11227261383",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1512489777000,
-            "speed": 0,
-            "steps": 1934,
-            "updateddate": 1512493582000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 2,
                     "name": "fairly"
                 },
                 {
-                    "minutes": 14,
+                    "minutes": 6,
                     "name": "very"
                 }
             ],
-            "activityname": "Run",
-            "activitytypeid": "90009",
-            "averageheartrate": 104,
-            "calories": 157,
-            "createddate": 1512460355000,
-            "distance": 1.35649,
+            "activityname": "Treadmill",
+            "activitytypeid": "20049",
+            "averageheartrate": 93,
+            "calories": 219,
+            "createddate": 1511195115000,
+            "distance": 1.34612,
             "durations": {
-                "active": 956000,
-                "original": 957000,
-                "total": 957000
+                "active": 1736000,
+                "original": 1737000,
+                "total": 1737000
             },
-            "elevationgain": 7.62,
-            "entityid": "18_644MGZ_11208337821",
+            "elevationgain": 10.973,
+            "entityid": "18_644MGZ_11003165792",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 1,
+                    "minutes": 13,
                     "name": "Out of Range"
                 },
                 {
@@ -278,23 +59,23 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11208337821",
+            "id": "11003165792",
             "logtype": "tracker",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1512460355000,
+            "originalstartdate": 1511195115000,
             "source": {
                 "id": "72319970",
                 "name": "Blaze",
                 "type": "tracker",
                 "url": "https://www.fitbit.com/"
             },
-            "speed": 5.108121338912134,
-            "steps": 1679,
-            "updateddate": 1512462181000
+            "speed": 2.791493087557604,
+            "steps": 1792,
+            "updateddate": 1511203264000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -308,27 +89,27 @@
                     "name": "lightly"
                 },
                 {
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "fairly"
                 },
                 {
-                    "minutes": 18,
+                    "minutes": 15,
                     "name": "very"
                 }
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
             "averageheartrate": 118,
-            "calories": 212,
-            "createddate": 1512373712000,
+            "calories": 175,
+            "createddate": 1511164284000,
             "distance": 0,
             "durations": {
-                "active": 1127000,
-                "original": 1127000,
-                "total": 1127000
+                "active": 922000,
+                "original": 922000,
+                "total": 922000
             },
             "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11206212249",
+            "entityid": "18_644MGZ_11001385404",
             "heartratezones": [
                 {
                     "max": 93,
@@ -339,13 +120,13 @@
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 16,
+                    "minutes": 15,
                     "name": "Fat Burn"
                 },
                 {
                     "max": 158,
                     "min": 130,
-                    "minutes": 3,
+                    "minutes": 0,
                     "name": "Cardio"
                 },
                 {
@@ -355,17 +136,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11206212249",
+            "id": "11001385404",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1512373712000,
+            "originalstartdate": 1511164284000,
             "speed": 0,
-            "steps": 1821,
-            "updateddate": 1512377851000
+            "steps": 1528,
+            "updateddate": 1511178667000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -375,113 +156,42 @@
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 0,
+                    "minutes": 11,
                     "name": "lightly"
                 },
                 {
-                    "minutes": 5,
+                    "minutes": 10,
                     "name": "fairly"
                 },
                 {
-                    "minutes": 12,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 97,
-            "calories": 156,
-            "createddate": 1512169504000,
-            "distance": 0,
-            "durations": {
-                "active": 1126000,
-                "original": 1126000,
-                "total": 1126000
-            },
-            "elevationgain": 9.144,
-            "entityid": "18_644MGZ_11182128385",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
                     "minutes": 6,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 12,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
+                    "name": "very"
                 }
             ],
-            "id": "11182128385",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
+            "activityname": "Elliptical",
+            "activitytypeid": "20047",
+            "averageheartrate": 101,
+            "calories": 208,
+            "createddate": 1511027431000,
+            "distance": 0.59996,
+            "durations": {
+                "active": 1681000,
+                "original": 1683000,
+                "total": 1683000
             },
-            "originalstartdate": 1512169504000,
-            "speed": 0,
-            "steps": 1641,
-            "updateddate": 1512220396000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
+            "elevationgain": 10.363,
+            "entityid": "18_644MGZ_10980354146",
+            "heartratezones": [
                 {
+                    "max": 93,
+                    "min": 30,
                     "minutes": 4,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 12,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 0,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 0,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 81,
-            "calories": 113,
-            "createddate": 1513851903000,
-            "distance": 0,
-            "durations": {
-                "active": 972000,
-                "original": 972000,
-                "total": 972000
-            },
-            "elevationgain": 0,
-            "entityid": "18_644MGZ_11470914449",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 14,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 2,
+                    "minutes": 24,
                     "name": "Fat Burn"
                 },
                 {
@@ -497,94 +207,23 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11470914449",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513851903000,
-            "speed": 0,
-            "steps": 1161,
-            "updateddate": 1513940487000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 3,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 7,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 19,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 3,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Workout",
-            "activitytypeid": "3000",
-            "averageheartrate": 98,
-            "calories": 204,
-            "createddate": 1513705644000,
-            "distance": 0,
-            "durations": {
-                "active": 1933000,
-                "original": 1934000,
-                "total": 1934000
-            },
-            "elevationgain": 10.973,
-            "entityid": "18_644MGZ_11435520563",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 9,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 22,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 1,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11435520563",
+            "id": "10980354146",
             "logtype": "tracker",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1513705644000,
+            "originalstartdate": 1511027431000,
             "source": {
                 "id": "72319970",
                 "name": "Blaze",
                 "type": "tracker",
                 "url": "https://www.fitbit.com/"
             },
-            "speed": 0,
-            "steps": 838,
-            "updateddate": 1513713937000
+            "speed": 1.284863771564545,
+            "steps": 918,
+            "updateddate": 1511090089000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -592,297 +231,13 @@
                 {
                     "minutes": 0,
                     "name": "sedentary"
-                },
-                {
-                    "minutes": 2,
-                    "name": "lightly"
                 },
                 {
                     "minutes": 3,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 16,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 89,
-            "calories": 189,
-            "createddate": 1513699403000,
-            "distance": 0,
-            "durations": {
-                "active": 1280000,
-                "original": 1280000,
-                "total": 1280000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11437457267",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 13,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 8,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11437457267",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513699403000,
-            "speed": 0,
-            "steps": 2014,
-            "updateddate": 1513713938000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 2,
                     "name": "lightly"
                 },
                 {
-                    "minutes": 2,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 13,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 89,
-            "calories": 152,
-            "createddate": 1513670019000,
-            "distance": 0,
-            "durations": {
-                "active": 1024000,
-                "original": 1024000,
-                "total": 1024000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11437457266",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 13,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 4,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11437457266",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513670019000,
-            "speed": 0,
-            "steps": 1685,
-            "updateddate": 1513713938000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 5,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 9,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 4,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 30,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 101,
-            "calories": 392,
-            "createddate": 1513611301000,
-            "distance": 0,
-            "durations": {
-                "active": 2918000,
-                "original": 2918000,
-                "total": 2918000
-            },
-            "elevationgain": 9.144,
-            "entityid": "18_644MGZ_11421903816",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 13,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 34,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11421903816",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513611301000,
-            "speed": 0,
-            "steps": 2791,
-            "updateddate": 1513631252000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 0,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 16,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 117,
-            "calories": 177,
-            "createddate": 1513583555000,
-            "distance": 0,
-            "durations": {
-                "active": 971000,
-                "original": 971000,
-                "total": 971000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11411619461",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 0,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 16,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11411619461",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513583555000,
-            "speed": 0,
-            "steps": 1582,
-            "updateddate": 1513590722000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 1,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 3,
+                    "minutes": 11,
                     "name": "fairly"
                 },
                 {
@@ -892,28 +247,28 @@
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 111,
-            "calories": 301,
-            "createddate": 1513436864000,
+            "averageheartrate": 100,
+            "calories": 373,
+            "createddate": 1510948076000,
             "distance": 0,
             "durations": {
-                "active": 1792000,
-                "original": 1792000,
-                "total": 1792000
+                "active": 2406000,
+                "original": 2406000,
+                "total": 2406000
             },
-            "elevationgain": 0,
-            "entityid": "18_644MGZ_11394908867",
+            "elevationgain": 6.096,
+            "entityid": "18_644MGZ_10971984051",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 0,
+                    "minutes": 10,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 30,
+                    "minutes": 29,
                     "name": "Fat Burn"
                 },
                 {
@@ -929,159 +284,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11394908867",
+            "id": "10971984051",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1513436864000,
+            "originalstartdate": 1510948076000,
             "speed": 0,
-            "steps": 2361,
-            "updateddate": 1513455124000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 1,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 3,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 37,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 115,
-            "calories": 466,
-            "createddate": 1513429391000,
-            "distance": 0,
-            "durations": {
-                "active": 2509000,
-                "original": 2509000,
-                "total": 2509000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11394908864",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 2,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 33,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 6,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11394908864",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513429391000,
-            "speed": 0,
-            "steps": 3670,
-            "updateddate": 1513455124000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 1,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 6,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 15,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Sport",
-            "activitytypeid": "15000",
-            "averageheartrate": 106,
-            "calories": 196,
-            "createddate": 1513348866000,
-            "distance": 0,
-            "durations": {
-                "active": 1331000,
-                "original": 1331000,
-                "total": 1331000
-            },
-            "elevationgain": 0,
-            "entityid": "18_644MGZ_11384629947",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 2,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 20,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11384629947",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513348866000,
-            "speed": 0,
-            "steps": 948,
-            "updateddate": 1513380514000
+            "steps": 2794,
+            "updateddate": 1510961468000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -1096,219 +309,6 @@
                 },
                 {
                     "minutes": 1,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 16,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 115,
-            "calories": 198,
-            "createddate": 1513324249000,
-            "distance": 0,
-            "durations": {
-                "active": 1016000,
-                "original": 1016000,
-                "total": 1016000
-            },
-            "elevationgain": 18.288,
-            "entityid": "18_644MGZ_11384629946",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 0,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 16,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11384629946",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513324249000,
-            "speed": 0,
-            "steps": 1658,
-            "updateddate": 1513380514000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 7,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 68,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 112,
-            "calories": 843,
-            "createddate": 1513284882000,
-            "distance": 0,
-            "durations": {
-                "active": 4557000,
-                "original": 4557000,
-                "total": 4557000
-            },
-            "elevationgain": 15.24,
-            "entityid": "18_644MGZ_11375571939",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 8,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 57,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 7,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11375571939",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513284882000,
-            "speed": 0,
-            "steps": 6386,
-            "updateddate": 1513321550000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 0,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 22,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 110,
-            "calories": 235,
-            "createddate": 1513272186000,
-            "distance": 0,
-            "durations": {
-                "active": 1331000,
-                "original": 1331000,
-                "total": 1331000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11375571936",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 0,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 22,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11375571936",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513272186000,
-            "speed": 0,
-            "steps": 1947,
-            "updateddate": 1513321550000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 0,
                     "name": "fairly"
                 },
                 {
@@ -1319,16 +319,16 @@
             "activityname": "Walk",
             "activitytypeid": "90013",
             "averageheartrate": 121,
-            "calories": 213,
-            "createddate": 1513151523000,
+            "calories": 228,
+            "createddate": 1510934561000,
             "distance": 0,
             "durations": {
-                "active": 1024000,
-                "original": 1024000,
-                "total": 1024000
+                "active": 1075000,
+                "original": 1075000,
+                "total": 1075000
             },
-            "elevationgain": 6.096,
-            "entityid": "18_644MGZ_11343889652",
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_10964709615",
             "heartratezones": [
                 {
                     "max": 93,
@@ -1339,7 +339,7 @@
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 15,
+                    "minutes": 16,
                     "name": "Fat Burn"
                 },
                 {
@@ -1355,17 +355,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11343889652",
+            "id": "10964709615",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1513151523000,
+            "originalstartdate": 1510934561000,
             "speed": 0,
-            "steps": 1609,
-            "updateddate": 1513154995000
+            "steps": 1565,
+            "updateddate": 1510939475000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -1375,11 +375,82 @@
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 2,
+                    "minutes": 0,
                     "name": "lightly"
                 },
                 {
-                    "minutes": 4,
+                    "minutes": 0,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 17,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 114,
+            "calories": 198,
+            "createddate": 1510904919000,
+            "distance": 0,
+            "durations": {
+                "active": 1024000,
+                "original": 1024000,
+                "total": 1024000
+            },
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_10964709614",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 0,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 17,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 0,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "10964709614",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1510904919000,
+            "speed": 0,
+            "steps": 1591,
+            "updateddate": 1510939475000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 11,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 10,
                     "name": "fairly"
                 },
                 {
@@ -1387,19 +458,96 @@
                     "name": "very"
                 }
             ],
+            "activityname": "Workout",
+            "activitytypeid": "3000",
+            "averageheartrate": 99,
+            "calories": 251,
+            "createddate": 1510828302000,
+            "distance": 0,
+            "durations": {
+                "active": 1972000,
+                "original": 1973000,
+                "total": 1973000
+            },
+            "elevationgain": 11.582,
+            "entityid": "18_644MGZ_10945503343",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 8,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 25,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 0,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "10945503343",
+            "logtype": "tracker",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1510828302000,
+            "source": {
+                "id": "72319970",
+                "name": "Blaze",
+                "type": "tracker",
+                "url": "https://www.fitbit.com/"
+            },
+            "speed": 0,
+            "steps": 692,
+            "updateddate": 1510850003000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 3,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 0,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 14,
+                    "name": "very"
+                }
+            ],
             "activityname": "Walk",
             "activitytypeid": "90013",
             "averageheartrate": 90,
-            "calories": 154,
-            "createddate": 1513094473000,
+            "calories": 155,
+            "createddate": 1510732192000,
             "distance": 0,
             "durations": {
-                "active": 1024000,
-                "original": 1024000,
-                "total": 1024000
+                "active": 973000,
+                "original": 973000,
+                "total": 973000
             },
-            "elevationgain": 0,
-            "entityid": "18_644MGZ_11343889651",
+            "elevationgain": 6.096,
+            "entityid": "18_644MGZ_10923720176",
             "heartratezones": [
                 {
                     "max": 93,
@@ -1426,62 +574,62 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11343889651",
+            "id": "10923720176",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1513094473000,
+            "originalstartdate": 1510732192000,
             "speed": 0,
-            "steps": 1527,
-            "updateddate": 1513154995000
+            "steps": 1667,
+            "updateddate": 1510734497000
         },
         {
             "accountentityid": "18_644MGZ",
             "activitylevel": [
                 {
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 4,
+                    "minutes": 0,
                     "name": "lightly"
                 },
                 {
-                    "minutes": 10,
+                    "minutes": 4,
                     "name": "fairly"
                 },
                 {
-                    "minutes": 14,
+                    "minutes": 19,
                     "name": "very"
                 }
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 78,
-            "calories": 232,
-            "createddate": 1513080753000,
+            "averageheartrate": 111,
+            "calories": 238,
+            "createddate": 1510645490000,
             "distance": 0,
             "durations": {
-                "active": 1792000,
-                "original": 1792000,
-                "total": 1792000
+                "active": 1331000,
+                "original": 1331000,
+                "total": 1331000
             },
-            "elevationgain": 27.432,
-            "entityid": "18_644MGZ_11332090253",
+            "elevationgain": 9.144,
+            "entityid": "18_644MGZ_10909798167",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 24,
+                    "minutes": 1,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 6,
+                    "minutes": 22,
                     "name": "Fat Burn"
                 },
                 {
@@ -1497,17 +645,94 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11332090253",
+            "id": "10909798167",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1513080753000,
+            "originalstartdate": 1510645490000,
             "speed": 0,
-            "steps": 2412,
-            "updateddate": 1513084455000
+            "steps": 1889,
+            "updateddate": 1510664209000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 22,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 15,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 6,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 6,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Weights",
+            "activitytypeid": "2131",
+            "averageheartrate": 95,
+            "calories": 218,
+            "createddate": 1510597770000,
+            "distance": 0,
+            "durations": {
+                "active": 2995000,
+                "original": 3014000,
+                "total": 3014000
+            },
+            "elevationgain": 10.058,
+            "entityid": "18_644MGZ_10895778522",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 14,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 14,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 0,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "10895778522",
+            "logtype": "tracker",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1510597770000,
+            "source": {
+                "id": "72319970",
+                "name": "Blaze",
+                "type": "tracker",
+                "url": "https://www.fitbit.com/"
+            },
+            "speed": 0,
+            "steps": 935,
+            "updateddate": 1510602862000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -1517,36 +742,36 @@
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 0,
+                    "minutes": 1,
                     "name": "lightly"
                 },
                 {
-                    "minutes": 4,
+                    "minutes": 2,
                     "name": "fairly"
                 },
                 {
-                    "minutes": 14,
+                    "minutes": 15,
                     "name": "very"
                 }
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 100,
-            "calories": 174,
-            "createddate": 1513064935000,
+            "averageheartrate": 107,
+            "calories": 182,
+            "createddate": 1510559279000,
             "distance": 0,
             "durations": {
-                "active": 1075000,
-                "original": 1075000,
-                "total": 1075000
+                "active": 1024000,
+                "original": 1024000,
+                "total": 1024000
             },
-            "elevationgain": 6.096,
-            "entityid": "18_644MGZ_11330181837",
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_10895047389",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 3,
+                    "minutes": 1,
                     "name": "Out of Range"
                 },
                 {
@@ -1568,443 +793,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11330181837",
+            "id": "10895047389",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1513064935000,
+            "originalstartdate": 1510559279000,
             "speed": 0,
-            "steps": 1786,
-            "updateddate": 1513069111000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 3,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 14,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 111,
-            "calories": 174,
-            "createddate": 1512978484000,
-            "distance": 0,
-            "durations": {
-                "active": 1024000,
-                "original": 1024000,
-                "total": 1024000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11313481949",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 0,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 17,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11313481949",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1512978484000,
-            "speed": 0,
-            "steps": 1550,
-            "updateddate": 1512987258000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 1,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 1,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 3,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 32,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 98,
-            "calories": 353,
-            "createddate": 1512916272000,
-            "distance": 0,
-            "durations": {
-                "active": 2253000,
-                "original": 2253000,
-                "total": 2253000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11304563482",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 13,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 24,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11304563482",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1512916272000,
-            "speed": 0,
-            "steps": 3563,
-            "updateddate": 1512924475000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 3,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 14,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 100,
-            "calories": 171,
-            "createddate": 1512719414000,
-            "distance": 0,
-            "durations": {
-                "active": 1024000,
-                "original": 1024000,
-                "total": 1024000
-            },
-            "elevationgain": 9.144,
-            "entityid": "18_644MGZ_11280989828",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 6,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 9,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11280989828",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1512719414000,
-            "speed": 0,
-            "steps": 1687,
-            "updateddate": 1512750688000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 3,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 17,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 107,
-            "calories": 203,
-            "createddate": 1512632908000,
-            "distance": 0,
-            "durations": {
-                "active": 1229000,
-                "original": 1229000,
-                "total": 1229000
-            },
-            "elevationgain": 6.096,
-            "entityid": "18_644MGZ_11258887192",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 1,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 18,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11258887192",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1512632908000,
-            "speed": 0,
-            "steps": 1902,
-            "updateddate": 1512653381000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 1,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 20,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 110,
-            "calories": 215,
-            "createddate": 1514730110000,
-            "distance": 0,
-            "durations": {
-                "active": 1229000,
-                "original": 1229000,
-                "total": 1229000
-            },
-            "elevationgain": 0,
-            "entityid": "18_644MGZ_11592081585",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 0,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 20,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11592081585",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1514730110000,
-            "speed": 0,
-            "steps": 1768,
-            "updateddate": 1514814509000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 1,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 2,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 41,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 110,
-            "calories": 455,
-            "createddate": 1514726015000,
-            "distance": 0,
-            "durations": {
-                "active": 2663000,
-                "original": 2663000,
-                "total": 2663000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11580631251",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 0,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 40,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11580631251",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1514726015000,
-            "speed": 0,
-            "steps": 4211,
-            "updateddate": 1514729723000
+            "steps": 1723,
+            "updateddate": 1510579375000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -2022,23 +821,23 @@
                     "name": "fairly"
                 },
                 {
-                    "minutes": 26,
+                    "minutes": 42,
                     "name": "very"
                 }
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
             "averageheartrate": 115,
-            "calories": 315,
-            "createddate": 1514667758000,
+            "calories": 484,
+            "createddate": 1510503994000,
             "distance": 0,
             "durations": {
-                "active": 1689000,
-                "original": 1689000,
-                "total": 1689000
+                "active": 2610000,
+                "original": 2610000,
+                "total": 2610000
             },
             "elevationgain": 0,
-            "entityid": "18_644MGZ_11580631249",
+            "entityid": "18_644MGZ_10886773768",
             "heartratezones": [
                 {
                     "max": 93,
@@ -2049,13 +848,13 @@
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 27,
+                    "minutes": 29,
                     "name": "Fat Burn"
                 },
                 {
                     "max": 158,
                     "min": 130,
-                    "minutes": 1,
+                    "minutes": 5,
                     "name": "Cardio"
                 },
                 {
@@ -2065,17 +864,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11580631249",
+            "id": "10886773768",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514667758000,
+            "originalstartdate": 1510503994000,
             "speed": 0,
-            "steps": 2350,
-            "updateddate": 1514729723000
+            "steps": 4026,
+            "updateddate": 1510519068000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -2085,11 +884,82 @@
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 0,
+                    "minutes": 5,
                     "name": "lightly"
                 },
                 {
-                    "minutes": 11,
+                    "minutes": 4,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 45,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 107,
+            "calories": 594,
+            "createddate": 1510495240000,
+            "distance": 0,
+            "durations": {
+                "active": 3276000,
+                "original": 3276000,
+                "total": 3276000
+            },
+            "elevationgain": 6.096,
+            "entityid": "18_644MGZ_10883154292",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 7,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 17,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 8,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 1,
+                    "name": "Peak"
+                }
+            ],
+            "id": "10883154292",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1510495240000,
+            "speed": 0,
+            "steps": 4846,
+            "updateddate": 1510501386000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 3,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 3,
                     "name": "fairly"
                 },
                 {
@@ -2097,24 +967,95 @@
                     "name": "very"
                 }
             ],
-            "activityname": "Weights",
-            "activitytypeid": "2131",
-            "averageheartrate": 105,
-            "calories": 202,
-            "createddate": 1514633176000,
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 82,
+            "calories": 152,
+            "createddate": 1510441438000,
             "distance": 0,
             "durations": {
-                "active": 1424000,
-                "original": 1425000,
-                "total": 1425000
+                "active": 1126000,
+                "original": 1126000,
+                "total": 1126000
             },
-            "elevationgain": 9.144,
-            "entityid": "18_644MGZ_11558172914",
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_10879725490",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 2,
+                    "minutes": 19,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 0,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 0,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "10879725490",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1510441438000,
+            "speed": 0,
+            "steps": 1598,
+            "updateddate": 1510482063000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 6,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 16,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 8,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Workout",
+            "activitytypeid": "3000",
+            "averageheartrate": 97,
+            "calories": 223,
+            "createddate": 1510398799000,
+            "distance": 0,
+            "durations": {
+                "active": 1794000,
+                "original": 1797000,
+                "total": 1797000
+            },
+            "elevationgain": 10.973,
+            "entityid": "18_644MGZ_10869286957",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 9,
                     "name": "Out of Range"
                 },
                 {
@@ -2136,14 +1077,14 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11558172914",
+            "id": "10869286957",
             "logtype": "tracker",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514633176000,
+            "originalstartdate": 1510398799000,
             "source": {
                 "id": "72319970",
                 "name": "Blaze",
@@ -2151,53 +1092,124 @@
                 "url": "https://www.fitbit.com/"
             },
             "speed": 0,
-            "steps": 863,
-            "updateddate": 1514637959000
+            "steps": 887,
+            "updateddate": 1510409032000
         },
         {
             "accountentityid": "18_644MGZ",
             "activitylevel": [
                 {
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 0,
+                    "minutes": 1,
                     "name": "lightly"
                 },
                 {
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "fairly"
                 },
                 {
-                    "minutes": 20,
+                    "minutes": 15,
                     "name": "very"
                 }
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 106,
-            "calories": 225,
-            "createddate": 1514563067000,
+            "averageheartrate": 124,
+            "calories": 190,
+            "createddate": 1510300141000,
             "distance": 0,
             "durations": {
-                "active": 1331000,
-                "original": 1331000,
-                "total": 1331000
+                "active": 972000,
+                "original": 972000,
+                "total": 972000
             },
-            "elevationgain": 6.096,
-            "entityid": "18_644MGZ_11558838960",
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_10861118899",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 3,
+                    "minutes": 0,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 18,
+                    "minutes": 9,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 3,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "10861118899",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1510300141000,
+            "speed": 0,
+            "steps": 1526,
+            "updateddate": 1510346770000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 9,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 12,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 9,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 15,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 75,
+            "calories": 290,
+            "createddate": 1510224622000,
+            "distance": 0,
+            "durations": {
+                "active": 2713000,
+                "original": 2713000,
+                "total": 2713000
+            },
+            "elevationgain": 9.144,
+            "entityid": "18_644MGZ_10840395892",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 40,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 5,
                     "name": "Fat Burn"
                 },
                 {
@@ -2213,17 +1225,230 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11558838960",
+            "id": "10840395892",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514563067000,
+            "originalstartdate": 1510224622000,
             "speed": 0,
-            "steps": 1954,
-            "updateddate": 1514574672000
+            "steps": 2565,
+            "updateddate": 1510242881000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 0,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 0,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 39,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 114,
+            "calories": 459,
+            "createddate": 1510164652000,
+            "distance": 0,
+            "durations": {
+                "active": 2304000,
+                "original": 2304000,
+                "total": 2304000
+            },
+            "elevationgain": 6.096,
+            "entityid": "18_644MGZ_10827560268",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 0,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 35,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 3,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "10827560268",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1510164652000,
+            "speed": 0,
+            "steps": 3872,
+            "updateddate": 1510170940000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 2,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 5,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 12,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 93,
+            "calories": 169,
+            "createddate": 1512027999000,
+            "distance": 0,
+            "durations": {
+                "active": 1126000,
+                "original": 1126000,
+                "total": 1126000
+            },
+            "elevationgain": 0,
+            "entityid": "18_644MGZ_11148475101",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 10,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 9,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 0,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "11148475101",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1512027999000,
+            "speed": 0,
+            "steps": 1777,
+            "updateddate": 1512032480000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 4,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 6,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 15,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 106,
+            "calories": 241,
+            "createddate": 1511998614000,
+            "distance": 0,
+            "durations": {
+                "active": 1485000,
+                "original": 1485000,
+                "total": 1485000
+            },
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_11148475100",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 5,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 16,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 4,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "11148475100",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1511998614000,
+            "speed": 0,
+            "steps": 1554,
+            "updateddate": 1512032480000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -2241,28 +1466,99 @@
                     "name": "fairly"
                 },
                 {
-                    "minutes": 18,
+                    "minutes": 16,
                     "name": "very"
                 }
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 109,
-            "calories": 202,
-            "createddate": 1514533672000,
+            "averageheartrate": 122,
+            "calories": 207,
+            "createddate": 1511941668000,
             "distance": 0,
             "durations": {
-                "active": 1177000,
-                "original": 1177000,
-                "total": 1177000
+                "active": 1024000,
+                "original": 1024000,
+                "total": 1024000
             },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11552130054",
+            "elevationgain": 6.096,
+            "entityid": "18_644MGZ_11133434689",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 1,
+                    "minutes": 0,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 9,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 5,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "11133434689",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1511941668000,
+            "speed": 0,
+            "steps": 1662,
+            "updateddate": 1511944320000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 0,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 0,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 19,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 115,
+            "calories": 215,
+            "createddate": 1511855255000,
+            "distance": 0,
+            "durations": {
+                "active": 1126000,
+                "original": 1126000,
+                "total": 1126000
+            },
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_11115241950",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 0,
                     "name": "Out of Range"
                 },
                 {
@@ -2284,139 +1580,62 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11552130054",
+            "id": "11115241950",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514533672000,
+            "originalstartdate": 1511855255000,
             "speed": 0,
-            "steps": 1916,
-            "updateddate": 1514536310000
+            "steps": 1754,
+            "updateddate": 1511860485000
         },
         {
             "accountentityid": "18_644MGZ",
             "activitylevel": [
                 {
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "lightly"
+                },
+                {
+                    "minutes": 5,
+                    "name": "fairly"
                 },
                 {
                     "minutes": 11,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 8,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Workout",
-            "activitytypeid": "3000",
-            "averageheartrate": 104,
-            "calories": 164,
-            "createddate": 1514482082000,
-            "distance": 0,
-            "durations": {
-                "active": 1287000,
-                "original": 1288000,
-                "total": 1288000
-            },
-            "elevationgain": 10.668,
-            "entityid": "18_644MGZ_11543550836",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 1,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 20,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11543550836",
-            "logtype": "tracker",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1514482082000,
-            "source": {
-                "id": "72319970",
-                "name": "Blaze",
-                "type": "tracker",
-                "url": "https://www.fitbit.com/"
-            },
-            "speed": 0,
-            "steps": 880,
-            "updateddate": 1514536304000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 0,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 18,
                     "name": "very"
                 }
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 122,
-            "calories": 215,
-            "createddate": 1514447054000,
+            "averageheartrate": 103,
+            "calories": 157,
+            "createddate": 1511814404000,
             "distance": 0,
             "durations": {
-                "active": 1075000,
-                "original": 1075000,
-                "total": 1075000
+                "active": 973000,
+                "original": 973000,
+                "total": 973000
             },
-            "elevationgain": 6.096,
-            "entityid": "18_644MGZ_11539111931",
+            "elevationgain": 0,
+            "entityid": "18_644MGZ_11114306519",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 0,
+                    "minutes": 3,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 18,
+                    "minutes": 13,
                     "name": "Fat Burn"
                 },
                 {
@@ -2432,17 +1651,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11539111931",
+            "id": "11114306519",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514447054000,
+            "originalstartdate": 1511814404000,
             "speed": 0,
-            "steps": 1682,
-            "updateddate": 1514451091000
+            "steps": 1488,
+            "updateddate": 1511851551000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -2452,7 +1671,7 @@
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "lightly"
                 },
                 {
@@ -2466,28 +1685,28 @@
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 109,
-            "calories": 171,
-            "createddate": 1514360744000,
+            "averageheartrate": 114,
+            "calories": 174,
+            "createddate": 1511768966000,
             "distance": 0,
             "durations": {
-                "active": 1024000,
-                "original": 1024000,
-                "total": 1024000
+                "active": 973000,
+                "original": 973000,
+                "total": 973000
             },
             "elevationgain": 6.096,
-            "entityid": "18_644MGZ_11523134696",
+            "entityid": "18_644MGZ_11101288054",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 16,
+                    "minutes": 10,
                     "name": "Fat Burn"
                 },
                 {
@@ -2503,17 +1722,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11523134696",
+            "id": "11101288054",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514360744000,
+            "originalstartdate": 1511768966000,
             "speed": 0,
-            "steps": 1686,
-            "updateddate": 1514364284000
+            "steps": 1617,
+            "updateddate": 1511787116000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -2523,42 +1742,42 @@
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 0,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 7,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 9,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Sport",
-            "activitytypeid": "15000",
-            "averageheartrate": 105,
-            "calories": 138,
-            "createddate": 1514296241000,
-            "distance": 0,
-            "durations": {
-                "active": 921000,
-                "original": 921000,
-                "total": 921000
-            },
-            "elevationgain": 0,
-            "entityid": "18_644MGZ_11523134694",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
                     "minutes": 2,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 6,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 39,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 102,
+            "calories": 440,
+            "createddate": 1511567552000,
+            "distance": 0,
+            "durations": {
+                "active": 2868000,
+                "original": 2868000,
+                "total": 2868000
+            },
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_11101288052",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 3,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 14,
+                    "minutes": 41,
                     "name": "Fat Burn"
                 },
                 {
@@ -2574,17 +1793,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11523134694",
+            "id": "11101288052",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514296241000,
+            "originalstartdate": 1511567552000,
             "speed": 0,
-            "steps": 795,
-            "updateddate": 1514364284000
+            "steps": 3872,
+            "updateddate": 1511787115000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -2594,7 +1813,78 @@
                     "name": "sedentary"
                 },
                 {
+                    "minutes": 1,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 1,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 28,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 104,
+            "calories": 291,
+            "createddate": 1511562638000,
+            "distance": 0,
+            "durations": {
+                "active": 1792000,
+                "original": 1792000,
+                "total": 1792000
+            },
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_11101288051",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 4,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 21,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
                     "minutes": 0,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "11101288051",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1511562638000,
+            "speed": 0,
+            "steps": 2648,
+            "updateddate": 1511787115000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 4,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 13,
                     "name": "lightly"
                 },
                 {
@@ -2602,40 +1892,40 @@
                     "name": "fairly"
                 },
                 {
-                    "minutes": 17,
+                    "minutes": 0,
                     "name": "very"
                 }
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 118,
-            "calories": 187,
-            "createddate": 1514274338000,
+            "averageheartrate": 106,
+            "calories": 143,
+            "createddate": 1511436490000,
             "distance": 0,
             "durations": {
                 "active": 1024000,
                 "original": 1024000,
                 "total": 1024000
             },
-            "elevationgain": 6.096,
-            "entityid": "18_644MGZ_11511202977",
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_11057006980",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 0,
+                    "minutes": 3,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 14,
+                    "minutes": 13,
                     "name": "Fat Burn"
                 },
                 {
                     "max": 158,
                     "min": 130,
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "Cardio"
                 },
                 {
@@ -2645,88 +1935,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11511202977",
+            "id": "11057006980",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514274338000,
+            "originalstartdate": 1511436490000,
             "speed": 0,
-            "steps": 1716,
-            "updateddate": 1514276862000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 1,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 1,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 19,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 118,
-            "calories": 229,
-            "createddate": 1514219562000,
-            "distance": 0,
-            "durations": {
-                "active": 1229000,
-                "original": 1229000,
-                "total": 1229000
-            },
-            "elevationgain": 0,
-            "entityid": "18_644MGZ_11506610980",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 0,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 20,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 1,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11506610980",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1514219562000,
-            "speed": 0,
-            "steps": 1767,
-            "updateddate": 1514230025000
+            "steps": 969,
+            "updateddate": 1511475307000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -2740,27 +1959,175 @@
                     "name": "lightly"
                 },
                 {
-                    "minutes": 1,
+                    "minutes": 2,
                     "name": "fairly"
                 },
                 {
-                    "minutes": 17,
+                    "minutes": 16,
                     "name": "very"
                 }
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 117,
-            "calories": 200,
-            "createddate": 1514188437000,
+            "averageheartrate": 119,
+            "calories": 221,
+            "createddate": 1511423422000,
             "distance": 0,
             "durations": {
                 "active": 1075000,
                 "original": 1075000,
                 "total": 1075000
             },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11503352944",
+            "elevationgain": 6.096,
+            "entityid": "18_644MGZ_11057006977",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 0,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 13,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 4,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "11057006977",
+            "logtype": "auto_detected",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1511423422000,
+            "speed": 0,
+            "steps": 1531,
+            "updateddate": 1511475307000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 3,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 18,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 14,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Treadmill",
+            "activitytypeid": "20049",
+            "averageheartrate": 99,
+            "calories": 288,
+            "createddate": 1511381190000,
+            "distance": 1.05776,
+            "durations": {
+                "active": 2148000,
+                "original": 2149000,
+                "total": 2149000
+            },
+            "elevationgain": 13.411,
+            "entityid": "18_644MGZ_11031394095",
+            "heartratezones": [
+                {
+                    "max": 93,
+                    "min": 30,
+                    "minutes": 10,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 130,
+                    "min": 93,
+                    "minutes": 26,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 158,
+                    "min": 130,
+                    "minutes": 0,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 158,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "id": "11031394095",
+            "logtype": "tracker",
+            "manualvaluesspecified": {
+                "calories": false,
+                "distance": false,
+                "steps": false
+            },
+            "originalstartdate": 1511381190000,
+            "source": {
+                "id": "72319970",
+                "name": "Blaze",
+                "type": "tracker",
+                "url": "https://www.fitbit.com/"
+            },
+            "speed": 1.772782122905028,
+            "steps": 1515,
+            "updateddate": 1511385700000
+        },
+        {
+            "accountentityid": "18_644MGZ",
+            "activitylevel": [
+                {
+                    "minutes": 0,
+                    "name": "sedentary"
+                },
+                {
+                    "minutes": 0,
+                    "name": "lightly"
+                },
+                {
+                    "minutes": 0,
+                    "name": "fairly"
+                },
+                {
+                    "minutes": 18,
+                    "name": "very"
+                }
+            ],
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 117,
+            "calories": 214,
+            "createddate": 1511367878000,
+            "distance": 0,
+            "durations": {
+                "active": 1075000,
+                "original": 1075000,
+                "total": 1075000
+            },
+            "elevationgain": 0,
+            "entityid": "18_644MGZ_11043219374",
             "heartratezones": [
                 {
                     "max": 93,
@@ -2787,17 +2154,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11503352944",
+            "id": "11043219374",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514188437000,
+            "originalstartdate": 1511367878000,
             "speed": 0,
-            "steps": 1673,
-            "updateddate": 1514195856000
+            "steps": 1605,
+            "updateddate": 1511385705000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -2807,48 +2174,48 @@
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 2,
+                    "minutes": 0,
                     "name": "lightly"
                 },
                 {
-                    "minutes": 4,
+                    "minutes": 0,
                     "name": "fairly"
                 },
                 {
-                    "minutes": 20,
+                    "minutes": 18,
                     "name": "very"
                 }
             ],
-            "activityname": "Weights",
-            "activitytypeid": "2131",
-            "averageheartrate": 111,
-            "calories": 246,
-            "createddate": 1514032393000,
+            "activityname": "Walk",
+            "activitytypeid": "90013",
+            "averageheartrate": 117,
+            "calories": 217,
+            "createddate": 1511336957000,
             "distance": 0,
             "durations": {
-                "active": 1576000,
-                "original": 1578000,
-                "total": 1578000
+                "active": 1075000,
+                "original": 1075000,
+                "total": 1075000
             },
-            "elevationgain": 10.058,
-            "entityid": "18_644MGZ_11485828587",
+            "elevationgain": 3.048,
+            "entityid": "18_644MGZ_11035889213",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 24,
+                    "minutes": 18,
                     "name": "Fat Burn"
                 },
                 {
                     "max": 158,
                     "min": 130,
-                    "minutes": 1,
+                    "minutes": 0,
                     "name": "Cardio"
                 },
                 {
@@ -2858,23 +2225,17 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11485828587",
-            "logtype": "tracker",
+            "id": "11035889213",
+            "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1514032393000,
-            "source": {
-                "id": "72319970",
-                "name": "Blaze",
-                "type": "tracker",
-                "url": "https://www.fitbit.com/"
-            },
+            "originalstartdate": 1511336957000,
             "speed": 0,
-            "steps": 930,
-            "updateddate": 1514062661000
+            "steps": 1729,
+            "updateddate": 1511340247000
         },
         {
             "accountentityid": "18_644MGZ",
@@ -2884,11 +2245,11 @@
                     "name": "sedentary"
                 },
                 {
-                    "minutes": 0,
+                    "minutes": 1,
                     "name": "lightly"
                 },
                 {
-                    "minutes": 4,
+                    "minutes": 3,
                     "name": "fairly"
                 },
                 {
@@ -2898,247 +2259,28 @@
             ],
             "activityname": "Walk",
             "activitytypeid": "90013",
-            "averageheartrate": 86,
-            "calories": 153,
-            "createddate": 1513929052000,
+            "averageheartrate": 91,
+            "calories": 154,
+            "createddate": 1511250544000,
             "distance": 0,
             "durations": {
-                "active": 972000,
-                "original": 972000,
-                "total": 972000
+                "active": 1076000,
+                "original": 1076000,
+                "total": 1076000
             },
             "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11470914455",
+            "entityid": "18_644MGZ_11018137805",
             "heartratezones": [
                 {
                     "max": 93,
                     "min": 30,
-                    "minutes": 10,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 7,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11470914455",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513929052000,
-            "speed": 0,
-            "steps": 1588,
-            "updateddate": 1513940488000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 26,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 12,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 7,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 12,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Elliptical",
-            "activitytypeid": "20047",
-            "averageheartrate": 94,
-            "calories": 303,
-            "createddate": 1513881777000,
-            "distance": 0.51092,
-            "durations": {
-                "active": 3464000,
-                "original": 3465000,
-                "total": 3465000
-            },
-            "elevationgain": 18.593,
-            "entityid": "18_644MGZ_11468120739",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 34,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 24,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11468120739",
-            "logtype": "tracker",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513881777000,
-            "source": {
-                "id": "72319970",
-                "name": "Blaze",
-                "type": "tracker",
-                "url": "https://www.fitbit.com/"
-            },
-            "speed": 0.5309792147806005,
-            "steps": 837,
-            "updateddate": 1513940482000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 2,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 3,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 12,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 87,
-            "calories": 148,
-            "createddate": 1513872278000,
-            "distance": 0,
-            "durations": {
-                "active": 1024000,
-                "original": 1024000,
-                "total": 1024000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11470914453",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 13,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 4,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11470914453",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513872278000,
-            "speed": 0,
-            "steps": 1611,
-            "updateddate": 1513940488000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 0,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 3,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 4,
-                    "name": "fairly"
-                },
-                {
                     "minutes": 8,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Sport",
-            "activitytypeid": "15000",
-            "averageheartrate": 99,
-            "calories": 124,
-            "createddate": 1513865418000,
-            "distance": 0,
-            "durations": {
-                "active": 921000,
-                "original": 921000,
-                "total": 921000
-            },
-            "elevationgain": 0,
-            "entityid": "18_644MGZ_11470914451",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 4,
                     "name": "Out of Range"
                 },
                 {
                     "max": 130,
                     "min": 93,
-                    "minutes": 11,
+                    "minutes": 9,
                     "name": "Fat Burn"
                 },
                 {
@@ -3154,97 +2296,26 @@
                     "name": "Peak"
                 }
             ],
-            "id": "11470914451",
+            "id": "11018137805",
             "logtype": "auto_detected",
             "manualvaluesspecified": {
                 "calories": false,
                 "distance": false,
                 "steps": false
             },
-            "originalstartdate": 1513865418000,
+            "originalstartdate": 1511250544000,
             "speed": 0,
-            "steps": 768,
-            "updateddate": 1513940488000
-        },
-        {
-            "accountentityid": "18_644MGZ",
-            "activitylevel": [
-                {
-                    "minutes": 2,
-                    "name": "sedentary"
-                },
-                {
-                    "minutes": 5,
-                    "name": "lightly"
-                },
-                {
-                    "minutes": 3,
-                    "name": "fairly"
-                },
-                {
-                    "minutes": 6,
-                    "name": "very"
-                }
-            ],
-            "activityname": "Walk",
-            "activitytypeid": "90013",
-            "averageheartrate": 87,
-            "calories": 128,
-            "createddate": 1513856101000,
-            "distance": 0,
-            "durations": {
-                "active": 972000,
-                "original": 972000,
-                "total": 972000
-            },
-            "elevationgain": 3.048,
-            "entityid": "18_644MGZ_11470914450",
-            "heartratezones": [
-                {
-                    "max": 93,
-                    "min": 30,
-                    "minutes": 12,
-                    "name": "Out of Range"
-                },
-                {
-                    "max": 130,
-                    "min": 93,
-                    "minutes": 4,
-                    "name": "Fat Burn"
-                },
-                {
-                    "max": 158,
-                    "min": 130,
-                    "minutes": 0,
-                    "name": "Cardio"
-                },
-                {
-                    "max": 220,
-                    "min": 158,
-                    "minutes": 0,
-                    "name": "Peak"
-                }
-            ],
-            "id": "11470914450",
-            "logtype": "auto_detected",
-            "manualvaluesspecified": {
-                "calories": false,
-                "distance": false,
-                "steps": false
-            },
-            "originalstartdate": 1513856101000,
-            "speed": 0,
-            "steps": 1210,
-            "updateddate": 1513940487000
+            "steps": 1665,
+            "updateddate": 1511253833000
         }
     ],
     "fileDescriptor": {
-        "objectCount": 45,
+        "objectCount": 32,
         "objectType": "activity",
         "serviceGroup": "health fitness",
         "serviceName": "fitbit"
     },
-    "fileName": "18_4_18_3_300_D201712_1.json",
+    "fileName": "18_4_18_3_300_D201711_1.json",
     "fileList": [
         "18_1_4_2_7_D201709_1.json",
         "18_2_16_10_129_D201804_1.json",
