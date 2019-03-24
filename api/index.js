@@ -14,6 +14,11 @@ const {
   setData,
 } = require('./indexUtils');
 
+const {
+  adminRoute,
+  adminPostRoute,
+} = require('./admin/admin');
+
 function catchErrors(fn) {
   return (req, res, next) => fn(req, res, next).catch(next);
 }
@@ -42,6 +47,9 @@ router.post('/', requireAuth, catchErrors(indexPostRoute));
 router.get('/chat', requireAuth, catchErrors(chatRoute));
 router.post('/chat/question', requireAuth, catchErrors(postQuestionRoute));
 router.post('/chat/reply', requireAuth, catchErrors(postReplyRoute));
+
+router.get('/admin', requireAdminAuth, catchErrors(adminRoute));
+router.post('/admin', requireAdminAuth, catchErrors(adminPostRoute));
 
 
 module.exports = router;

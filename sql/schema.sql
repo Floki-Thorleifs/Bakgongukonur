@@ -1,9 +1,9 @@
 
-CREATE TABLE docs
+/* CREATE TABLE docs
 (
     id serial primary key,
     name varchar(256) not null
-);
+); */
 
 CREATE TABLE users
 (
@@ -12,8 +12,8 @@ CREATE TABLE users
     username varchar(64) unique not null,
     password varchar(256) not null,
     admin BOOLEAN DEFAULT false,
-    docid int not null,
-    FOREIGN KEY (docid) REFERENCES docs (id)
+    docid int
+    /* FOREIGN KEY (docid) REFERENCES docs (id) */
 );
 
 CREATE TABLE questions
