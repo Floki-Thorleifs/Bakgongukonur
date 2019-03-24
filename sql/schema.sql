@@ -13,7 +13,6 @@ CREATE TABLE users
     password varchar(256) not null,
     admin BOOLEAN DEFAULT false,
     docid int
-    /* FOREIGN KEY (docid) REFERENCES docs (id) */
 );
 
 CREATE TABLE questions

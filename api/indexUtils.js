@@ -45,15 +45,15 @@ async function getData(userID) {
     return dateArr;
 }
 
-async function setData(bloodTest, userID) {
+async function setData(bloodTest, timestamp, userID) {
     const q = `
         INSERT INTO
-        results (result, userid)
-        VALUES ($1, $2)
+        results (result, created, userid)
+        VALUES ($1, $2, $3)
         RETURNING *
     `;
 
-    const result = await query(q, [bloodTest, userID]);
+    const result = await query(q, [bloodTest, timestamp, userID]);
     return result.rows[0];
 }
 
