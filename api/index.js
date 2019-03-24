@@ -23,12 +23,12 @@ function catchErrors(fn) {
   return (req, res, next) => fn(req, res, next).catch(next);
 }
 
-
 async function indexPostRoute(req, res) {
-  const { bloodTest } = req.body;
+  const { bloodTest, date } = req.body;
   const userID = req.user.id;
+  const timestamp = new Date(date);
 
-  const result = await setData(bloodTest, userID);
+  const result = await setData(bloodTest, timestamp, userID);
 
   return res.json(result);
 }
